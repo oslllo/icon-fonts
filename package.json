@@ -1,0 +1,48 @@
+{
+  "name": "oslllo-icons",
+  "version": "0.1.0",
+  "description": "Multiple icon libraries in one.",
+  "main": "src/index.js",
+  "scripts": {
+    "webfont": "node node_modules/webfont/dist/cli.js",
+    "debug": "node tests/debug/debug.js",
+    "dev": "npm run development",
+    "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "watch": "npm run development -- --watch",
+    "hot": "cross-env NODE_ENV=development node_modules/webpack-dev-server/bin/webpack-dev-server.js --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "prod": "npm run production",
+    "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oslllo/icons.git"
+  },
+  "keywords": [
+    "icon-library",
+    "multiple-icons",
+    "icons",
+    "css-icons",
+    "fonts"
+  ],
+  "author": "Ghustavh Ehm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oslllo/icons/issues"
+  },
+  "homepage": "https://github.com/oslllo/icons#readme",
+  "devDependencies": {
+    "cross-env": "^7.0.2",
+    "download-git-repo": "^3.0.2",
+    "fs-extra": "^9.0.0",
+    "laravel-mix": "^5.0.4",
+    "lodash": "^4.17.15",
+    "oslllo-svg-fixer": "^0.3.1",
+    "resolve-url-loader": "^3.1.1",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11",
+    "webfont": "^9.0.0",
+    "cli-progress": "^3.8.2"
+  },
+  "dependencies": {}
+}

@@ -1,2 +1,3 @@
-# plume
-Simple icons
+# Plume
+
+Multiple icon libraries in one.
