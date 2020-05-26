@@ -31,18 +31,21 @@
   },
   "homepage": "https://github.com/oslllo/icons#readme",
   "devDependencies": {
+    "cli-progress": "^3.8.2",
+    "colors": "^1.4.0",
     "cross-env": "^7.0.2",
     "download-git-repo": "^3.0.2",
     "fs-extra": "^9.0.0",
+    "github-api": "^3.3.0",
     "laravel-mix": "^5.0.4",
     "lodash": "^4.17.15",
-    "oslllo-svg-fixer": "^0.3.1",
+    "nodegit": "^0.26.5",
+    "oslllo-svg-fixer": "^0.4.2",
     "resolve-url-loader": "^3.1.1",
     "sass": "^1.26.5",
     "sass-loader": "^8.0.2",
     "vue-template-compiler": "^2.6.11",
-    "webfont": "^9.0.0",
-    "cli-progress": "^3.8.2"
+    "webfont": "^9.0.0"
   },
   "dependencies": {}
 }
