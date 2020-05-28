@@ -1,0 +1,93 @@
+{
+  "commits": [
+    {
+      "sha": "9e0dcca265fa003c0c2bfd2e88776516adc88beb",
+      "node_id": "MDY6Q29tbWl0MjAyNzAyNTI6OWUwZGNjYTI2NWZhMDAzYzBjMmJmZDJlODg3NzY1MTZhZGM4OGJlYg==",
+      "commit": {
+        "author": {
+          "name": "Christopher Sandvik",
+          "email": "csandvik@uvm.edu",
+          "date": "2020-04-04T17:05:53Z"
+        },
+        "committer": {
+          "name": "GitHub",
+          "email": "noreply@github.com",
+          "date": "2020-04-04T17:05:53Z"
+        },
+        "message": "feat: Add `divide` icons (#568)\n\nAdded 3 division icons (also knows as an obelus).  One by itself, one with a circle around it, and one with a square around it.  These are meant to compliment plus, minus, and x icons.",
+        "tree": {
+          "sha": "a82a48397e8394c18442368596eee690fade9ce7",
+          "url": "https://api.github.com/repos/feathericons/feather/git/trees/a82a48397e8394c18442368596eee690fade9ce7"
+        },
+        "url": "https://api.github.com/repos/feathericons/feather/git/commits/9e0dcca265fa003c0c2bfd2e88776516adc88beb",
+        "comment_count": 0,
+        "verification": {
+          "verified": true,
+          "reason": "valid",
+          "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJeiL5xCRBK7hj4Ov3rIwAAdHIIABua90HHvYzqdd97U4ghVJyM\nQUyDtJ8L5QWbbYDHYwDAEONc3uoDg0CYu90hPt8owwZEcaI8F9WaMopFo/in4UZy\nU2fsYjc/nSPZIHGwubgeutiPTP8SbHRvRlLp46gJzctrv+hZ6Q5lGlJbiXVQeYnv\n8P/UvXJZzOqGfbaJpr7KD4s0NtS5JO3l6NsERk9zSLRTgtVUpA1KmU4gcoM8gfmz\nF5Fml4ub8mwZs9/WpTLsDudXXL3FF0cCz/+3eJfhI5LjFl7Hh+ftp05n96f+d+fJ\nmQ6Cjmv9pNeSe7coaNH2gO3Ro0SygjetYF9n6EpNMYF0GE6urBjxCwk+reveiTE=\n=HDER\n-----END PGP SIGNATURE-----\n",
+          "payload": "tree a82a48397e8394c18442368596eee690fade9ce7\nparent 23603b821715d5d3c1df96c08f3feb0508c2ec4f\nauthor Christopher Sandvik <csandvik@uvm.edu> 1586019953 -0400\ncommitter GitHub <noreply@github.com> 1586019953 -0700\n\nfeat: Add `divide` icons (#568)\n\nAdded 3 division icons (also knows as an obelus).  One by itself, one with a circle around it, and one with a square around it.  These are meant to compliment plus, minus, and x icons."
+        }
+      },
+      "url": "https://api.github.com/repos/feathericons/feather/commits/9e0dcca265fa003c0c2bfd2e88776516adc88beb",
+      "html_url": "https://github.com/feathericons/feather/commit/9e0dcca265fa003c0c2bfd2e88776516adc88beb",
+      "comments_url": "https://api.github.com/repos/feathericons/feather/commits/9e0dcca265fa003c0c2bfd2e88776516adc88beb/comments",
+      "author": {
+        "login": "csandman",
+        "id": 9214195,
+        "node_id": "MDQ6VXNlcjkyMTQxOTU=",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/9214195?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/csandman",
+        "html_url": "https://github.com/csandman",
+        "followers_url": "https://api.github.com/users/csandman/followers",
+        "following_url": "https://api.github.com/users/csandman/following{/other_user}",
+        "gists_url": "https://api.github.com/users/csandman/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/csandman/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/csandman/subscriptions",
+        "organizations_url": "https://api.github.com/users/csandman/orgs",
+        "repos_url": "https://api.github.com/users/csandman/repos",
+        "events_url": "https://api.github.com/users/csandman/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/csandman/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "web-flow",
+        "id": 19864447,
+        "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/web-flow",
+        "html_url": "https://github.com/web-flow",
+        "followers_url": "https://api.github.com/users/web-flow/followers",
+        "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+        "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+        "organizations_url": "https://api.github.com/users/web-flow/orgs",
+        "repos_url": "https://api.github.com/users/web-flow/repos",
+        "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/web-flow/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "23603b821715d5d3c1df96c08f3feb0508c2ec4f",
+          "url": "https://api.github.com/repos/feathericons/feather/commits/23603b821715d5d3c1df96c08f3feb0508c2ec4f",
+          "html_url": "https://github.com/feathericons/feather/commit/23603b821715d5d3c1df96c08f3feb0508c2ec4f"
+        }
+      ],
+      "tag": {
+        "name": "v4.28.0",
+        "zipball_url": "https://api.github.com/repos/feathericons/feather/zipball/v4.28.0",
+        "tarball_url": "https://api.github.com/repos/feathericons/feather/tarball/v4.28.0",
+        "commit": {
+          "sha": "9e0dcca265fa003c0c2bfd2e88776516adc88beb",
+          "url": "https://api.github.com/repos/feathericons/feather/commits/9e0dcca265fa003c0c2bfd2e88776516adc88beb"
+        },
+        "node_id": "MDM6UmVmMjAyNzAyNTI6cmVmcy90YWdzL3Y0LjI4LjA="
+      }
+    }
+  ]
+}

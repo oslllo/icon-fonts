@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "name": "feather",
+            "host": "github",
+            "repo": {
+                "owner": "feathericons",
+                "name": "feather"
+            },
+            "branch": "master",
+            "prefix": "fe",
+            "images": {
+                "path": "icons"
+            }
+        },
+        {
+            "name": "bootstrap-icons",
+            "host": "github",
+            "repo": {
+                "owner": "twbs",
+                "name": "icons"
+            },
+            "branch": "master",
+            "prefix": "fe",
+            "images": {
+                "path": "icons"
+            }
+        },
+        {
+            "name": "simple-icons",
+            "host": "github",
+            "repo": {
+                "owner": "simple-icons",
+                "name": "simple-icons"
+            },
+            "branch": "master",
+            "prefix": "si",
+            "images": {
+                "path": "icons"
+            }
+        }
+    ]
+}
