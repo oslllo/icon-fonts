@@ -1,6 +1,7 @@
+"use strict";
+
 const fs = require("fs-extra");
 const dgr = require("download-git-repo");
-const Nodegit = require("nodegit");
 const Github = require("github-api");
 const path = require("path");
 const colors = require("colors");
@@ -18,12 +19,12 @@ function Font(library) {
 	this.path = {
 		temp: (function() {
 			var root = path.resolve("temp");
-			var repos = path.join(root, "/repos");
-			return { root, repos };
+			var repositories = path.join(root, "/repositories");
+			return { root, repositories };
 		})(),
 		library: path.resolve("src/assets/library"),
 	};
-	this.repo = new Object;
+	this.repo = new Object();
 	this.manifest = {
 		path: "undefined",
 		exists: false,
@@ -39,13 +40,16 @@ Font.prototype = {
 	setup: function() {
 		this.library.host = this.host[this.library.host];
 		this.checkPath(this.path.temp.root);
-		this.checkPath(this.path.temp.repos);
+		this.checkPath(this.path.temp.repositories);
 		this.storage = {
-			path: this.getPath("storage", this.library, "", true)
+			path: this.getPath("storage", this.library, "", true),
 		};
-		this.manifest =  Object.assign(this.manifest, {
+		this.manifest = Object.assign(this.manifest, {
 			save: () => {
-				fs.writeFileSync(this.manifest.path, JSON.stringify(this.manifest.data, null, 2));
+				fs.writeFileSync(
+					this.manifest.path,
+					JSON.stringify(this.manifest.data, null, 2)
+				);
 			},
 			load: () => {
 				this.manifest.data = JSON.parse(fs.readFileSync(this.manifest.path));
@@ -57,12 +61,12 @@ Font.prototype = {
 					},
 					latest: () => {
 						return this.manifest.data.commits[0];
-					}
-				}
-			}
+					},
+				};
+			},
 		});
 		this.repo = Object.assign(this.repo, {
-			data: new Object,
+			data: new Object(),
 			init: () => {
 				const github = new Github();
 				this.repo.instance = github.getRepo(
@@ -86,8 +90,8 @@ Font.prototype = {
 						} else {
 							return data;
 						}
-					}
-				}
+					},
+				};
 			},
 			commits: (commits) => {
 				return {
@@ -97,7 +101,7 @@ Font.prototype = {
 							var data = commit.data;
 						}
 						var commits = await this.repo.instance.listCommits({
-							path: this.library.images.path
+							path: this.library.images.path,
 						});
 						var data = commits.data;
 						data = Array.isArray(data) ? data : [data];
@@ -107,13 +111,13 @@ Font.prototype = {
 						return data;
 					},
 					latest: () => {
-						return this.repo.data.commits[0]
+						return this.repo.data.commits[0];
 					},
 					setTag: (tag) => {
 						commits.tag = tag;
 						return commits;
-					}
-				}
+					},
+				};
 			},
 			set: () => {
 				return {
@@ -122,19 +126,19 @@ Font.prototype = {
 					},
 					commits: (commits) => {
 						this.repo.data.commits = commits;
-					}
-				}
-			}
+					},
+				};
+			},
 		});
 	},
-	check: function () {
+	check: function() {
 		return {
 			dir: function(destination, create = true) {
 				if (fs.existsSync(destination) == false) {
 					fs.mkdirSync(destination);
 				}
-			}
-		}
+			},
+		};
 	},
 	setOptions: function(set, options) {
 		for (var opt in options) {
@@ -143,9 +147,9 @@ Font.prototype = {
 			}
 		}
 	},
-	checkPath: function (p, create = true) {
+	checkPath: function(p, create = true) {
 		var exists = fs.existsSync(p);
-		if ((exists == false) && create) {
+		if (exists == false && create) {
 			fs.mkdirSync(p);
 		}
 		return exists;
@@ -154,64 +158,54 @@ Font.prototype = {
 		return new Promise(async (resolve, reject) => {
 			var source =
 				"direct:" +
-				library.host.url + "/" +
-				library.repo.owner + "/" +
-				library.repo.name + "/" +
-				library.host.archiver + "/" +
+				library.host.url +
+				"/" +
+				library.repo.owner +
+				"/" +
+				library.repo.name +
+				"/" +
+				library.host.archiver +
+				"/" +
 				library.branch;
 
-			var destination = path.join(this.path.temp.repos, library.repo.name);
-
-			if (fs.existsSync(destination)) {
-				fs.removeSync(destination);
-			}
+			var destination = path.join(this.path.temp.repositories, library.name);
 
 			this.manifest.path = path.join(this.storage.path, "manifest.json");
 			this.manifest.exists = fs.existsSync(this.manifest.path);
-			// console.log(this.manifest.exists);
-			// return
-
-			// fs.removeSync(this.manifest.path); //! DEBUG FUNCTION !!!!!!
 
 			try {
-
-				// this.repo.instance = github.getRepo(
-				// 	library.repo.owner,
-				// 	library.repo.name
-				// );
-
 				this.repo.init();
-
 				await this.repo.tags().fetch(true);
 
-				// var listTags = await this.repo.instance.listTags();
-				// this.repo.tags = listTags.data;
-
 				if (this.manifest.exists == false) {
-					console.log(colors.brightYellow(`Found new library ${library.name}, setting up files.`));
+					console.log(
+						colors.brightYellow(
+							`Found new library ${library.name}, setting up files.`
+						)
+					);
 					if (this.repo.tags().exist()) {
 						var latestTagSha = this.repo.tags().latest().commit.sha;
 						await this.repo.commits().fetch(latestTagSha, true);
-						// var commit = await this.repo.commits().fetch(latestTagSha);
-						// this.repo.commits = [commit];
 						this.manifest.hasTags = true;
 					} else {
 						await this.repo.commits().fetch(null, true);
-						// this.repo.commits = await this.repo.commits().fetch();
 						this.manifest.hasTags = false;
 					}
-					// var latestCommit = this.repo.commits[0];
 					var latestCommit = this.repo.commits().latest();
-					latestCommit = this.repo.commits(latestCommit).setTag(this.repo.tags().latest());
-					// latestCommit.tag = this.repo.tags().latest();
+					latestCommit = this.repo
+						.commits(latestCommit)
+						.setTag(this.repo.tags().latest());
 					this.manifest.data = { commits: [latestCommit] };
 					this.manifest.save();
 					this.manifest.load();
 				} else {
+					await this.repo.commits().fetch(null, true);
 					this.manifest.load();
 					var latestManifestCommitSha = this.manifest.commits().latest().sha;
 					if (this.manifest.hasTags) {
-						if (this.repo.tags().latest().commit.sha !== latestManifestCommitSha) {
+						if (
+							this.repo.tags().latest().commit.sha !== latestManifestCommitSha
+						) {
 							this.manifest.outdated = true;
 						} else {
 							this.manifest.outdated = false;
@@ -235,22 +229,29 @@ Font.prototype = {
 					return;
 				}
 
-				// var setupMessage = () => {
-
-				// }
-
 				var latestRepoCommit = this.repo.commits().latest();
 				var latestManifestCommit = this.manifest.commits().latest();
 
 				if (this.manifest.exists) {
-					console.log(colors.brightYellow(`Updating ${library.name} to commit ${latestRepoCommit.sha}`));
+					console.log(
+						colors.brightYellow(
+							`Updating ${library.name} to commit ${latestRepoCommit.sha}`
+						)
+					);
 				} else {
-					console.log(colors.brightYellow(`Setting up ${library.name} at commit ${latestRepoCommit.sha}`));
+					console.log(
+						colors.brightYellow(
+							`Setting up ${library.name} at commit ${latestRepoCommit.sha}`
+						)
+					);
 				}
 
 				var callback = (err) => {
-					if (err) {  
-						console.log(colors.red("Error downloading library repository"), err);
+					if (err) {
+						console.log(
+							colors.red("Error downloading library repository"),
+							err
+						);
 						reject({ err });
 					} else {
 						this.manifest.commits().add(this.manifest.commits().latest());
@@ -274,7 +275,7 @@ Font.prototype = {
 				dgr(source, destination, options, callback);
 			} catch (e) {
 				console.log(e);
-				reject({ err: e })
+				reject({ err: e });
 			}
 		});
 	},
@@ -288,14 +289,24 @@ Font.prototype = {
 			resolve();
 		});
 	},
-	optimize: function() {
+	optimize: function(force = false) {
 		return new Promise(async (resolve, reject) => {
 			var library = this.library;
-			var source = path.join(this.path.temp.repos, path.join(library.name, library.images.path));
+			var source = path.join(
+				this.path.temp.repositories,
+				path.join(library.name, library.images.path)
+			);
 			var destination = this.getPath("storage", library, "svgs", true);
-			await svgfixer.fix(source, destination, {
-				showProgressBar: true,
-			});
+			if (this.manifest.outdated || force) {
+				if (this.library.optimize) {
+					await svgfixer.fix(source, destination, {
+						showProgressBar: true,
+					});
+				} else {
+					console.log("Do not optimize");
+					fs.copySync(source, destination);
+				}
+			}
 			console.log("optimization complete");
 			resolve();
 		});
@@ -303,14 +314,13 @@ Font.prototype = {
 	getPath(to, library, folder = "", create = false) {
 		var p;
 		var f = path.join(library.name, folder);
-		console.log("Test", path.resolve("temp"));
-		switch(to) {
+		switch (to) {
 			case "storage":
-			p = path.join(path.resolve("src/assets/library"), f);
-			break;
+				p = path.join(path.resolve("src/assets/library"), f);
+				break;
 			case "temp":
-			p = path.join(path.resolve("temp"), f);
-			break;
+				p = path.join(path.resolve("temp"), f);
+				break;
 			default:
 				throw new TypeError(`Invalid path type '${to}' given.`);
 		}
@@ -330,7 +340,7 @@ Font.prototype = {
 					`--`,
 					`${source}`,
 					`--template`,
-					`scss`,
+					`css`,
 					`--font-height`,
 					"1000",
 					`--normalize`,

@@ -7,6 +7,7 @@
                 "owner": "feathericons",
                 "name": "feather"
             },
+            "optimize": true,
             "branch": "master",
             "prefix": "fe",
             "images": {
@@ -20,8 +21,9 @@
                 "owner": "twbs",
                 "name": "icons"
             },
+            "optimize": false,
             "branch": "master",
-            "prefix": "fe",
+            "prefix": "bi",
             "images": {
                 "path": "icons"
             }
@@ -33,10 +35,25 @@
                 "owner": "simple-icons",
                 "name": "simple-icons"
             },
+            "optimize": false,
             "branch": "master",
             "prefix": "si",
             "images": {
                 "path": "icons"
+            }
+        },
+        {
+            "name": "ionicons",
+            "host": "github",
+            "repo": {
+                "owner": "ionic-team",
+                "name": "ionicons"
+            },
+            "optimize": true,
+            "branch": "master",
+            "prefix": "ion",
+            "images": {
+                "path": "src/svg"
             }
         }
     ]

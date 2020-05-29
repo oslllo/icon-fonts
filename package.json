@@ -1,6 +1,6 @@
 {
-  "name": "oslllo-icons",
-  "version": "0.1.0",
+  "name": "oslllo-icon-fonts",
+  "version": "1.0.0",
   "description": "Multiple icon libraries in one.",
   "main": "src/index.js",
   "scripts": {
@@ -38,9 +38,9 @@
     "fs-extra": "^9.0.0",
     "github-api": "^3.3.0",
     "inquirer": "^7.1.0",
+    "jest": "^26.0.1",
     "laravel-mix": "^5.0.4",
     "lodash": "^4.17.15",
-    "nodegit": "^0.26.5",
     "oslllo-svg-fixer": "^0.4.2",
     "resolve-url-loader": "^3.1.1",
     "sass": "^1.26.5",

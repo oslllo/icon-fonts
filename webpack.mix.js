@@ -11,9 +11,11 @@ let mix = require('laravel-mix');
  |
  */
 
-mix.js('src/webpack/app.js', 'dist/js')
-   .sass('src/webpack/app.scss', 'dist/css')
-   .setPublicPath('dist')
+mix.copy('src/assets/library', 'dist');
+
+// mix.js('src/webpack/app.js', 'dist/js')
+//    .sass('src/webpack/app.scss', 'dist/css')
+//    .setPublicPath('dist')
 
 // Full API
 // mix.js(src, output);
