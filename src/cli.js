@@ -3,84 +3,77 @@
 "use strict";
 
 const Font = require("../");
-const _ = require("lodash");
-const colors = require("colors");
-const Library = require("./library");
-const inquirer = require("inquirer");
+const log = require("./log");
+const fs = require("fs-extra");
+const path2 = require("./path2");
+const is = require("oslllo-validator");
 
-var library = new Library();
-var libraries = library.all();
-var argv = require("yargs")
-	.scriptName("")
-	.usage("Usage: font <command> [options]")
-	.command(
-		"update",
-		"Update font libraries.",
-		function(yargs) {
-			return yargs.option({
-				a: {
-					alias: "all",
-					demandOption: false,
-					describe: "updates all font libraries to the latest versions.",
-					type: "boolean",
-				},
-				f: {
-					alias: "font",
-					demandOption: false,
-					describe: "update font library with this name.",
-					type: "string",
-					default: "undefined",
-				},
-				fo: {
-					alias: "force-optimization",
-					demandOption: false,
-					describe: "force font optimization.",
-					type: "boolean",
-				},
-			});
-		},
-		(argv) => {
-			update(argv);
-		}
-	)
-	.help("h").argv;
+// eslint-disable-next-line no-magic-numbers
+var argv = require("yargs")(process.argv.slice(2))
+    .scriptName("oslllo-icon-fonts")
+    .usage("Usage: font <command> [options]")
+    .option("purge", {
+        alias: "p",
+        default: false,
+        type: "boolean",
+        demandOption: false,
+        describe: "empty assets font directory",
+    })
+    .option("update-all", {
+        alias: "a",
+        default: false,
+        type: "boolean",
+        demandOption: false,
+        describe: "update all font libraries.",
+    })
+    .option("update", {
+        alias: "u",
+        type: "string",
+        demandOption: false,
+        describe: "update specific font library.",
+    })
+    .option("force-generate", {
+        alias: "g",
+        default: false,
+        type: "boolean",
+        demandOption: false,
+        describe: "force generate library fonts.",
+    })
+    .help().argv;
 
-async function update(args) {
-	switch (true) {
-		case args.a && typeof args.a !== "undefined":
-			console.log(`${colors.brightBlue(`Updating all font libraries.`)}`);
-			var _libraries = libraries.data;
-			for (var i = 0; i < _libraries.length; i++) {
-				var _library = _libraries[i];
-				await process(_library, args);
-			}
-			break;
-		case args.f !== "undefined":
-			var _library = _.find(libraries.data, (l) => {
-				return l.name === args.f;
-			});
-			if (!_library || typeof _library === "undefined") {
-				throw new TypeError(`Font library with name ${args.f} was not found.`);
-			}
-			await process(_library, args);
-			break;
-	}
+var libraries = new Font("libraries");
+
+/**
+ * @description - Update font library
+ * @param {*} library - Font library name
+ */
+async function update(library) {
+    var instance = new Font(library);
+    await instance.init();
+    await instance.update().download();
+    await instance.generate(argv.forceGenerate);
 }
 
-async function process(lib, options) {
-	var _font = new Font(lib);
-	if (options) {
-		if (typeof options !== "object" || Array.isArray(options)) {
-			throw new TypeError(
-				`options argument should be of type object ${typeof options} given.`
-			);
-		}
-	}
-	await _font.update();
-	await _font.optimize(options.fo);
-
-	// if (_font.manifest.outdated) {
-	//     await _font.optimize();
-	// }
-	await _font.generate();
-}
+(async () => {
+    if (argv.purge) {
+        log.danger("warning: purging asset fonts.");
+        fs.emptyDirSync(path2.assets.font);
+    }
+    if (argv.updateAll) {
+        log.info("info: updating all fonts.");
+        for (var i = 0; i < libraries.length; i++) {
+            await update(libraries[i].name);
+        }
+    } else if (argv.update) {
+        var name = argv.update;
+        var library = libraries.filter(function(l) {
+            return l.name == name;
+        });
+        if (is.false(library.length)) {
+            throw new Error(
+                log.danger(`error: no font library was found with name ${name}`)
+            );
+        }
+        await update(library[0].name);
+    }
+})();

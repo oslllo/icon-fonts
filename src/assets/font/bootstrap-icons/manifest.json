@@ -1,0 +1,2374 @@
+{
+  "commits": [
+    {
+      "sha": "0b76045b1d05919c62a2810399de85fdb295625a",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OjBiNzYwNDViMWQwNTkxOWM2MmEyODEwMzk5ZGU4NWZkYjI5NTYyNWE=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-10-19T19:53:38Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-10-20T17:40:42Z"
+        },
+        "message": "Add 18 new filetype icons\n\nAdds Word, Excel, PowerPoint, and bar chart icons. Also adds two journal bookmark icons.",
+        "tree": {
+          "sha": "79464c6567e26a4a265202a1eb2954e1afa43bab",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/79464c6567e26a4a265202a1eb2954e1afa43bab"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/0b76045b1d05919c62a2810399de85fdb295625a",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/0b76045b1d05919c62a2810399de85fdb295625a",
+      "html_url": "https://github.com/twbs/icons/commit/0b76045b1d05919c62a2810399de85fdb295625a",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/0b76045b1d05919c62a2810399de85fdb295625a/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "17c66454c8f24cc1fd284eb148357f0785f68b47",
+          "url": "https://api.github.com/repos/twbs/icons/commits/17c66454c8f24cc1fd284eb148357f0785f68b47",
+          "html_url": "https://github.com/twbs/icons/commit/17c66454c8f24cc1fd284eb148357f0785f68b47"
+        }
+      ]
+    },
+    {
+      "sha": "d35f97770965b95feddff6936532e6bf0b9cea9e",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OmQzNWY5Nzc3MDk2NWI5NWZlZGRmZjY5MzY1MzJlNmJmMGI5Y2VhOWU=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-10-19T22:31:21Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-10-20T15:17:39Z"
+        },
+        "message": "Add two new eomjis, plus fill variations for all",
+        "tree": {
+          "sha": "c78e614baa8465dc05edbe50ada1879aa11204f0",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/c78e614baa8465dc05edbe50ada1879aa11204f0"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/d35f97770965b95feddff6936532e6bf0b9cea9e",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/d35f97770965b95feddff6936532e6bf0b9cea9e",
+      "html_url": "https://github.com/twbs/icons/commit/d35f97770965b95feddff6936532e6bf0b9cea9e",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/d35f97770965b95feddff6936532e6bf0b9cea9e/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "22b8630b8b0fcaa9f8cc3391c0315db47f2a262a",
+          "url": "https://api.github.com/repos/twbs/icons/commits/22b8630b8b0fcaa9f8cc3391c0315db47f2a262a",
+          "html_url": "https://github.com/twbs/icons/commit/22b8630b8b0fcaa9f8cc3391c0315db47f2a262a"
+        }
+      ]
+    },
+    {
+      "sha": "22b8630b8b0fcaa9f8cc3391c0315db47f2a262a",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OjIyYjg2MzBiOGIwZmNhYTlmOGNjMzM5MWMwMzE1ZGI0N2YyYTI2MmE=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-10-19T19:49:07Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-10-19T22:11:11Z"
+        },
+        "message": "Fixes #437: make file-earmark variations consistent",
+        "tree": {
+          "sha": "7a4540d7909be3d99fcf7ebee47f66a0aa1d5837",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/7a4540d7909be3d99fcf7ebee47f66a0aa1d5837"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/22b8630b8b0fcaa9f8cc3391c0315db47f2a262a",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/22b8630b8b0fcaa9f8cc3391c0315db47f2a262a",
+      "html_url": "https://github.com/twbs/icons/commit/22b8630b8b0fcaa9f8cc3391c0315db47f2a262a",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/22b8630b8b0fcaa9f8cc3391c0315db47f2a262a/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "7ed2658958b4d233334c57efb85407a10b58f777",
+          "url": "https://api.github.com/repos/twbs/icons/commits/7ed2658958b4d233334c57efb85407a10b58f777",
+          "html_url": "https://github.com/twbs/icons/commit/7ed2658958b4d233334c57efb85407a10b58f777"
+        }
+      ]
+    },
+    {
+      "sha": "7ed2658958b4d233334c57efb85407a10b58f777",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OjdlZDI2NTg5NThiNGQyMzMzMzRjNTdlZmI4NTQwN2ExMGI1OGY3Nzc=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-10-19T19:44:17Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-10-19T22:11:11Z"
+        },
+        "message": "Fix some broken icons\n\n- Fixes #423: Update arrow-up-square-fil\n- Fixes #415: Properly name grip-horizontal and grip-vertical",
+        "tree": {
+          "sha": "5fcabde0782bc11c5545a4090ed13405dfc75e38",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/5fcabde0782bc11c5545a4090ed13405dfc75e38"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/7ed2658958b4d233334c57efb85407a10b58f777",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/7ed2658958b4d233334c57efb85407a10b58f777",
+      "html_url": "https://github.com/twbs/icons/commit/7ed2658958b4d233334c57efb85407a10b58f777",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/7ed2658958b4d233334c57efb85407a10b58f777/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "cbf4c25e41cf9d81c97742804a97f026933e4366",
+          "url": "https://api.github.com/repos/twbs/icons/commits/cbf4c25e41cf9d81c97742804a97f026933e4366",
+          "html_url": "https://github.com/twbs/icons/commit/cbf4c25e41cf9d81c97742804a97f026933e4366"
+        }
+      ]
+    },
+    {
+      "sha": "6565b22f14de70e8f410ce14069f5aa087aef888",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OjY1NjViMjJmMTRkZTcwZThmNDEwY2UxNDA2OWY1YWEwODdhZWY4ODg=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-08-18T03:44:45Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-08-18T03:49:42Z"
+        },
+        "message": "Fix up paths from symbol-ification in Figma",
+        "tree": {
+          "sha": "6d52cd6e1ea2dce98bd2288df372506811c33162",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/6d52cd6e1ea2dce98bd2288df372506811c33162"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/6565b22f14de70e8f410ce14069f5aa087aef888",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/6565b22f14de70e8f410ce14069f5aa087aef888",
+      "html_url": "https://github.com/twbs/icons/commit/6565b22f14de70e8f410ce14069f5aa087aef888",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/6565b22f14de70e8f410ce14069f5aa087aef888/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "761731c93cb8e86dc0a4e0c387b464db10377568",
+          "url": "https://api.github.com/repos/twbs/icons/commits/761731c93cb8e86dc0a4e0c387b464db10377568",
+          "html_url": "https://github.com/twbs/icons/commit/761731c93cb8e86dc0a4e0c387b464db10377568"
+        }
+      ]
+    },
+    {
+      "sha": "cb1e7c8de0078b0e71359816ef6faac0935cc33c",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OmNiMWU3YzhkZTAwNzhiMGU3MTM1OTgxNmVmNmZhYWMwOTM1Y2MzM2M=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-07-26T17:03:40Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-07-28T17:39:40Z"
+        },
+        "message": "Fixes #375: correct names of calculator icons",
+        "tree": {
+          "sha": "a8bf5cda7caf563552ab71c3a097853a2a308303",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/a8bf5cda7caf563552ab71c3a097853a2a308303"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/cb1e7c8de0078b0e71359816ef6faac0935cc33c",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/cb1e7c8de0078b0e71359816ef6faac0935cc33c",
+      "html_url": "https://github.com/twbs/icons/commit/cb1e7c8de0078b0e71359816ef6faac0935cc33c",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/cb1e7c8de0078b0e71359816ef6faac0935cc33c/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "bb1a5d892b3a39e28dc90a7fe17d8ab702269d35",
+          "url": "https://api.github.com/repos/twbs/icons/commits/bb1a5d892b3a39e28dc90a7fe17d8ab702269d35",
+          "html_url": "https://github.com/twbs/icons/commit/bb1a5d892b3a39e28dc90a7fe17d8ab702269d35"
+        }
+      ]
+    },
+    {
+      "sha": "bb1a5d892b3a39e28dc90a7fe17d8ab702269d35",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OmJiMWE1ZDg5MmIzYTM5ZTI4ZGM5MGE3ZmUxN2Q4YWI3MDIyNjlkMzU=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-07-23T22:34:06Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-07-28T17:39:40Z"
+        },
+        "message": "Clean up paths on alarms and stopwatchs, fixes #361",
+        "tree": {
+          "sha": "eabb3ef30414dd17e2eec9f9db27061bc8a291b3",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/eabb3ef30414dd17e2eec9f9db27061bc8a291b3"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/bb1a5d892b3a39e28dc90a7fe17d8ab702269d35",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/bb1a5d892b3a39e28dc90a7fe17d8ab702269d35",
+      "html_url": "https://github.com/twbs/icons/commit/bb1a5d892b3a39e28dc90a7fe17d8ab702269d35",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/bb1a5d892b3a39e28dc90a7fe17d8ab702269d35/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "ab65588065cf250350de216a0a92275e16b04dc5",
+          "url": "https://api.github.com/repos/twbs/icons/commits/ab65588065cf250350de216a0a92275e16b04dc5",
+          "html_url": "https://github.com/twbs/icons/commit/ab65588065cf250350de216a0a92275e16b04dc5"
+        }
+      ]
+    },
+    {
+      "sha": "ab65588065cf250350de216a0a92275e16b04dc5",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OmFiNjU1ODgwNjVjZjI1MDM1MGRlMjE2YTBhOTIyNzVlMTZiMDRkYzU=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-07-23T22:17:06Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-07-28T17:39:40Z"
+        },
+        "message": "Add two new icons: plug-fill and scissors",
+        "tree": {
+          "sha": "c3f02c3af2e9d8515873bcde5d0adff5ac15b505",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/c3f02c3af2e9d8515873bcde5d0adff5ac15b505"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/ab65588065cf250350de216a0a92275e16b04dc5",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/ab65588065cf250350de216a0a92275e16b04dc5",
+      "html_url": "https://github.com/twbs/icons/commit/ab65588065cf250350de216a0a92275e16b04dc5",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/ab65588065cf250350de216a0a92275e16b04dc5/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "e0ac006bb410711d046cfe2fab4349398df2e7b7",
+          "url": "https://api.github.com/repos/twbs/icons/commits/e0ac006bb410711d046cfe2fab4349398df2e7b7",
+          "html_url": "https://github.com/twbs/icons/commit/e0ac006bb410711d046cfe2fab4349398df2e7b7"
+        }
+      ]
+    },
+    {
+      "sha": "e0ac006bb410711d046cfe2fab4349398df2e7b7",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OmUwYWMwMDZiYjQxMDcxMWQwNDZjZmUyZmFiNDM0OTM5OGRmMmU3Yjc=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-07-23T22:16:23Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-07-28T17:39:40Z"
+        },
+        "message": "Redraw several icons with cleaner paths",
+        "tree": {
+          "sha": "7fcdebc89a0daed0984e35b2c704bf4a04349e1b",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/7fcdebc89a0daed0984e35b2c704bf4a04349e1b"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/e0ac006bb410711d046cfe2fab4349398df2e7b7",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/e0ac006bb410711d046cfe2fab4349398df2e7b7",
+      "html_url": "https://github.com/twbs/icons/commit/e0ac006bb410711d046cfe2fab4349398df2e7b7",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/e0ac006bb410711d046cfe2fab4349398df2e7b7/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "77641a306234639285403cf27a96788651b01d43",
+          "url": "https://api.github.com/repos/twbs/icons/commits/77641a306234639285403cf27a96788651b01d43",
+          "html_url": "https://github.com/twbs/icons/commit/77641a306234639285403cf27a96788651b01d43"
+        }
+      ]
+    },
+    {
+      "sha": "20e38e44acdf4a23c77d94a63ccc9a1d332da605",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OjIwZTM4ZTQ0YWNkZjRhMjNjNzdkOTRhNjNjY2M5YTFkMzMyZGE2MDU=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-07-23T18:44:46Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-07-28T17:39:40Z"
+        },
+        "message": "Redraw some tools and real world icons\n\n- Redraw brush entirely, make it all outlined\n- New brush-fill variant\n- Redrew bucket and bucket-fill\n- Redrew speaker to be outlined, added speaker-fill variant",
+        "tree": {
+          "sha": "1886c56107dd66b4394234916828b018c12c4d03",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/1886c56107dd66b4394234916828b018c12c4d03"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/20e38e44acdf4a23c77d94a63ccc9a1d332da605",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/20e38e44acdf4a23c77d94a63ccc9a1d332da605",
+      "html_url": "https://github.com/twbs/icons/commit/20e38e44acdf4a23c77d94a63ccc9a1d332da605",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/20e38e44acdf4a23c77d94a63ccc9a1d332da605/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "959b7c765d34fac5d79e3cfab086606a4a7aafc5",
+          "url": "https://api.github.com/repos/twbs/icons/commits/959b7c765d34fac5d79e3cfab086606a4a7aafc5",
+          "html_url": "https://github.com/twbs/icons/commit/959b7c765d34fac5d79e3cfab086606a4a7aafc5"
+        }
+      ]
+    },
+    {
+      "sha": "959b7c765d34fac5d79e3cfab086606a4a7aafc5",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4Ojk1OWI3Yzc2NWQzNGZhYzVkNzllM2NmYWIwODY2MDZhNGE3YWFmYzU=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-07-23T18:43:49Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-07-28T17:39:40Z"
+        },
+        "message": "Redraw two comms icons to fix overlapping paths",
+        "tree": {
+          "sha": "bad87b35ce5cc8ff7f76924d0657b2ae8699ff7d",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/bad87b35ce5cc8ff7f76924d0657b2ae8699ff7d"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/959b7c765d34fac5d79e3cfab086606a4a7aafc5",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/959b7c765d34fac5d79e3cfab086606a4a7aafc5",
+      "html_url": "https://github.com/twbs/icons/commit/959b7c765d34fac5d79e3cfab086606a4a7aafc5",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/959b7c765d34fac5d79e3cfab086606a4a7aafc5/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "06c58780976d04c35d617e70018ac0b859b6dccf",
+          "url": "https://api.github.com/repos/twbs/icons/commits/06c58780976d04c35d617e70018ac0b859b6dccf",
+          "html_url": "https://github.com/twbs/icons/commit/06c58780976d04c35d617e70018ac0b859b6dccf"
+        }
+      ]
+    },
+    {
+      "sha": "06c58780976d04c35d617e70018ac0b859b6dccf",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OjA2YzU4NzgwOTc2ZDA0YzM1ZDYxN2U3MDAxOGFjMGI4NTliNmRjY2Y=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-07-23T18:43:18Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-07-28T17:39:40Z"
+        },
+        "message": "Updated geo icons\n\n- Smooth out map again\n- Added map-fill variant\n- Redesigned geo-alt to be outline version, then created geo-alt-fill\n- Added compass-fill",
+        "tree": {
+          "sha": "354a515a6355769f576f5cbe79402d7c3bca7ad6",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/354a515a6355769f576f5cbe79402d7c3bca7ad6"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/06c58780976d04c35d617e70018ac0b859b6dccf",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/06c58780976d04c35d617e70018ac0b859b6dccf",
+      "html_url": "https://github.com/twbs/icons/commit/06c58780976d04c35d617e70018ac0b859b6dccf",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/06c58780976d04c35d617e70018ac0b859b6dccf/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "9d82ebcf20d31b773ab2ddd6556cfeebc5a29022",
+          "url": "https://api.github.com/repos/twbs/icons/commits/9d82ebcf20d31b773ab2ddd6556cfeebc5a29022",
+          "html_url": "https://github.com/twbs/icons/commit/9d82ebcf20d31b773ab2ddd6556cfeebc5a29022"
+        }
+      ]
+    },
+    {
+      "sha": "9d82ebcf20d31b773ab2ddd6556cfeebc5a29022",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OjlkODJlYmNmMjBkMzFiNzczYWIyZGRkNjU1NmNmZWViYzVhMjkwMjI=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-07-23T18:42:01Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-07-28T17:39:40Z"
+        },
+        "message": "Redraw and extend bookmark icons\n\n- Widens and rounds the original bookmark icons\n- Moved icons from corner cutouts to center of each icon so we can do fill variants\n- Added x, star, and heart variants\n- Added fill versions of all existing and new bookmark icons",
+        "tree": {
+          "sha": "f29eeaec60751bccbba6840f81333d9064ba6fab",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/f29eeaec60751bccbba6840f81333d9064ba6fab"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/9d82ebcf20d31b773ab2ddd6556cfeebc5a29022",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/9d82ebcf20d31b773ab2ddd6556cfeebc5a29022",
+      "html_url": "https://github.com/twbs/icons/commit/9d82ebcf20d31b773ab2ddd6556cfeebc5a29022",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/9d82ebcf20d31b773ab2ddd6556cfeebc5a29022/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "d82388ae7f5db7850026818563d209cb14fc7893",
+          "url": "https://api.github.com/repos/twbs/icons/commits/d82388ae7f5db7850026818563d209cb14fc7893",
+          "html_url": "https://github.com/twbs/icons/commit/d82388ae7f5db7850026818563d209cb14fc7893"
+        }
+      ]
+    },
+    {
+      "sha": "6c63dae31fab5a10b7ae1c591a136a6ce865ae16",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OjZjNjNkYWUzMWZhYjVhMTBiN2FlMWM1OTFhMTM2YTZjZTg2NWFlMTY=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-07-23T05:05:17Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-07-28T17:39:40Z"
+        },
+        "message": "Add new icons\n\n- cup-fill\n- geo-fill\n- pen-fill\n- pencil-fill\n- trophy-fill\n- vector-pen",
+        "tree": {
+          "sha": "35623091a9952d5e8adc2c1246328a03e901b327",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/35623091a9952d5e8adc2c1246328a03e901b327"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/6c63dae31fab5a10b7ae1c591a136a6ce865ae16",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/6c63dae31fab5a10b7ae1c591a136a6ce865ae16",
+      "html_url": "https://github.com/twbs/icons/commit/6c63dae31fab5a10b7ae1c591a136a6ce865ae16",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/6c63dae31fab5a10b7ae1c591a136a6ce865ae16/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "41a28394bf6c0fe1ca92df983f15f84fbeb61afc",
+          "url": "https://api.github.com/repos/twbs/icons/commits/41a28394bf6c0fe1ca92df983f15f84fbeb61afc",
+          "html_url": "https://github.com/twbs/icons/commit/41a28394bf6c0fe1ca92df983f15f84fbeb61afc"
+        }
+      ]
+    },
+    {
+      "sha": "a3f275e47cc382824b5f73604118ebf87ff84971",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OmEzZjI3NWU0N2NjMzgyODI0YjVmNzM2MDQxMThlYmY4N2ZmODQ5NzE=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-07-23T05:01:07Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-07-28T17:39:40Z"
+        },
+        "message": "Redraw and enlarge pen and pencil icons",
+        "tree": {
+          "sha": "6e94932a547fde60126f940fe3aefcd1a6d0929e",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/6e94932a547fde60126f940fe3aefcd1a6d0929e"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/a3f275e47cc382824b5f73604118ebf87ff84971",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/a3f275e47cc382824b5f73604118ebf87ff84971",
+      "html_url": "https://github.com/twbs/icons/commit/a3f275e47cc382824b5f73604118ebf87ff84971",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/a3f275e47cc382824b5f73604118ebf87ff84971/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "f4e616872fba0c3e22616670466734e8f23b5345",
+          "url": "https://api.github.com/repos/twbs/icons/commits/f4e616872fba0c3e22616670466734e8f23b5345",
+          "html_url": "https://github.com/twbs/icons/commit/f4e616872fba0c3e22616670466734e8f23b5345"
+        }
+      ]
+    },
+    {
+      "sha": "f4e616872fba0c3e22616670466734e8f23b5345",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OmY0ZTYxNjg3MmZiYTBjM2UyMjYxNjY3MDQ2NjczNGU4ZjIzYjUzNDU=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-07-23T04:59:41Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-07-28T17:39:40Z"
+        },
+        "message": "Update arrows on download and upload icons to match arrow icons",
+        "tree": {
+          "sha": "7a0fc87e1511b493c1729c5b362828008c44266a",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/7a0fc87e1511b493c1729c5b362828008c44266a"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/f4e616872fba0c3e22616670466734e8f23b5345",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/f4e616872fba0c3e22616670466734e8f23b5345",
+      "html_url": "https://github.com/twbs/icons/commit/f4e616872fba0c3e22616670466734e8f23b5345",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/f4e616872fba0c3e22616670466734e8f23b5345/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "fe0ca5c22318cabf4e85431cd31769ffee73b65f",
+          "url": "https://api.github.com/repos/twbs/icons/commits/fe0ca5c22318cabf4e85431cd31769ffee73b65f",
+          "html_url": "https://github.com/twbs/icons/commit/fe0ca5c22318cabf4e85431cd31769ffee73b65f"
+        }
+      ]
+    },
+    {
+      "sha": "fe0ca5c22318cabf4e85431cd31769ffee73b65f",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OmZlMGNhNWMyMjMxOGNhYmY0ZTg1NDMxY2QzMTc2OWZmZWU3M2I2NWY=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-07-23T04:59:23Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-07-28T17:39:40Z"
+        },
+        "message": "Updated geo icons to make map and pin simpler and taller",
+        "tree": {
+          "sha": "a94f2263da3f09b28d1088ff353ce29285714b3f",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/a94f2263da3f09b28d1088ff353ce29285714b3f"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/fe0ca5c22318cabf4e85431cd31769ffee73b65f",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/fe0ca5c22318cabf4e85431cd31769ffee73b65f",
+      "html_url": "https://github.com/twbs/icons/commit/fe0ca5c22318cabf4e85431cd31769ffee73b65f",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/fe0ca5c22318cabf4e85431cd31769ffee73b65f/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "d956920450ce1171df30340ca52b681a7e5bb63e",
+          "url": "https://api.github.com/repos/twbs/icons/commits/d956920450ce1171df30340ca52b681a7e5bb63e",
+          "html_url": "https://github.com/twbs/icons/commit/d956920450ce1171df30340ca52b681a7e5bb63e"
+        }
+      ]
+    },
+    {
+      "sha": "d956920450ce1171df30340ca52b681a7e5bb63e",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OmQ5NTY5MjA0NTBjZTExNzFkZjMwMzQwY2E1MmI2ODFhN2U1YmI2M2U=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-07-23T04:58:42Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-07-28T17:39:40Z"
+        },
+        "message": "Simplify bar chart and graph icons",
+        "tree": {
+          "sha": "cc3755a1543a607e20133903087e88d2ff4b9ce3",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/cc3755a1543a607e20133903087e88d2ff4b9ce3"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/d956920450ce1171df30340ca52b681a7e5bb63e",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/d956920450ce1171df30340ca52b681a7e5bb63e",
+      "html_url": "https://github.com/twbs/icons/commit/d956920450ce1171df30340ca52b681a7e5bb63e",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/d956920450ce1171df30340ca52b681a7e5bb63e/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "eff406f02214ed6268ec9eb9f17fd3e4d4551438",
+          "url": "https://api.github.com/repos/twbs/icons/commits/eff406f02214ed6268ec9eb9f17fd3e4d4551438",
+          "html_url": "https://github.com/twbs/icons/commit/eff406f02214ed6268ec9eb9f17fd3e4d4551438"
+        }
+      ]
+    },
+    {
+      "sha": "eff406f02214ed6268ec9eb9f17fd3e4d4551438",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OmVmZjQwNmYwMjIxNGVkNjI2OGVjOWViOWYxN2ZkM2U0ZDQ1NTE0Mzg=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-07-23T04:57:03Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-07-28T17:39:40Z"
+        },
+        "message": "Update video camera icons to simplify paths and make them more pixel perfect",
+        "tree": {
+          "sha": "a2c382b888de75cf7ec4b6990d49d0702cec0388",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/a2c382b888de75cf7ec4b6990d49d0702cec0388"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/eff406f02214ed6268ec9eb9f17fd3e4d4551438",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/eff406f02214ed6268ec9eb9f17fd3e4d4551438",
+      "html_url": "https://github.com/twbs/icons/commit/eff406f02214ed6268ec9eb9f17fd3e4d4551438",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/eff406f02214ed6268ec9eb9f17fd3e4d4551438/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "4ece898be7b2c4e664b5e1c3c476f5031dbdf6ab",
+          "url": "https://api.github.com/repos/twbs/icons/commits/4ece898be7b2c4e664b5e1c3c476f5031dbdf6ab",
+          "html_url": "https://github.com/twbs/icons/commit/4ece898be7b2c4e664b5e1c3c476f5031dbdf6ab"
+        }
+      ]
+    },
+    {
+      "sha": "4ece898be7b2c4e664b5e1c3c476f5031dbdf6ab",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OjRlY2U4OThiZTdiMmM0ZTY2NGI1ZTFjM2M0NzZmNTAzMWRiZGY2YWI=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-07-23T04:55:17Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-07-28T17:39:40Z"
+        },
+        "message": "Redraw some communication icons to simplify paths\n\n- Flag icons now larger\n- Inboxes icons slightly tweaked, and no overlapping paths\n- Share icons have simpler paths",
+        "tree": {
+          "sha": "aaff51505c1708360367e23129804f9554c74b40",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/aaff51505c1708360367e23129804f9554c74b40"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/4ece898be7b2c4e664b5e1c3c476f5031dbdf6ab",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/4ece898be7b2c4e664b5e1c3c476f5031dbdf6ab",
+      "html_url": "https://github.com/twbs/icons/commit/4ece898be7b2c4e664b5e1c3c476f5031dbdf6ab",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/4ece898be7b2c4e664b5e1c3c476f5031dbdf6ab/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "8575a53fe001a1d87cf7c6d86b2393d60656862d",
+          "url": "https://api.github.com/repos/twbs/icons/commits/8575a53fe001a1d87cf7c6d86b2393d60656862d",
+          "html_url": "https://github.com/twbs/icons/commit/8575a53fe001a1d87cf7c6d86b2393d60656862d"
+        }
+      ]
+    },
+    {
+      "sha": "8575a53fe001a1d87cf7c6d86b2393d60656862d",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4Ojg1NzVhNTNmZTAwMWExZDg3Y2Y3YzZkODZiMjM5M2Q2MDY1Njg2MmQ=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-07-23T04:50:00Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-07-28T17:39:40Z"
+        },
+        "message": "Redraw several real world icons\n\n- Simplify paths on books, bicycle, newspaper, doors, and closed\n- Redrew cup icon to be larger\n- Redrew trophy icon to simplify it a lot",
+        "tree": {
+          "sha": "80f6ae2442ab7bab01c0aa410ac0b82e784ae894",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/80f6ae2442ab7bab01c0aa410ac0b82e784ae894"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/8575a53fe001a1d87cf7c6d86b2393d60656862d",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/8575a53fe001a1d87cf7c6d86b2393d60656862d",
+      "html_url": "https://github.com/twbs/icons/commit/8575a53fe001a1d87cf7c6d86b2393d60656862d",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/8575a53fe001a1d87cf7c6d86b2393d60656862d/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "a2d3b6af5eb9929d335be5584d398a1448c1bee0",
+          "url": "https://api.github.com/repos/twbs/icons/commits/a2d3b6af5eb9929d335be5584d398a1448c1bee0",
+          "html_url": "https://github.com/twbs/icons/commit/a2d3b6af5eb9929d335be5584d398a1448c1bee0"
+        }
+      ]
+    },
+    {
+      "sha": "a2d3b6af5eb9929d335be5584d398a1448c1bee0",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OmEyZDNiNmFmNWViOTkyOWQzMzViZTU1ODRkMzk4YTE0NDhjMWJlZTA=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-07-23T04:45:38Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-07-28T17:39:40Z"
+        },
+        "message": "Redraw several UI and graphics icons for simpler paths",
+        "tree": {
+          "sha": "6a7b23695381d224fda5c201945ee5f14971e891",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/6a7b23695381d224fda5c201945ee5f14971e891"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/a2d3b6af5eb9929d335be5584d398a1448c1bee0",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/a2d3b6af5eb9929d335be5584d398a1448c1bee0",
+      "html_url": "https://github.com/twbs/icons/commit/a2d3b6af5eb9929d335be5584d398a1448c1bee0",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/a2d3b6af5eb9929d335be5584d398a1448c1bee0/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "f13af355a331779b4d210da7b252ae14fdbc4d2f",
+          "url": "https://api.github.com/repos/twbs/icons/commits/f13af355a331779b4d210da7b252ae14fdbc4d2f",
+          "html_url": "https://github.com/twbs/icons/commit/f13af355a331779b4d210da7b252ae14fdbc4d2f"
+        }
+      ]
+    },
+    {
+      "sha": "f13af355a331779b4d210da7b252ae14fdbc4d2f",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OmYxM2FmMzU1YTMzMTc3OWI0ZDIxMGRhN2IyNTJhZTE0ZmRiYzRkMmY=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-07-23T04:41:25Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-07-28T17:39:40Z"
+        },
+        "message": "Clean up commerce icons\n\n- Updated wallets to have cleaner paths\n- Updated baskets to have consistent paths, no overlaps, better pixels\n- Redraw trucks for cleaner paths",
+        "tree": {
+          "sha": "100e76084b70bc407225e56cc438b694b94215b1",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/100e76084b70bc407225e56cc438b694b94215b1"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/f13af355a331779b4d210da7b252ae14fdbc4d2f",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/f13af355a331779b4d210da7b252ae14fdbc4d2f",
+      "html_url": "https://github.com/twbs/icons/commit/f13af355a331779b4d210da7b252ae14fdbc4d2f",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/f13af355a331779b4d210da7b252ae14fdbc4d2f/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "01905e9f4c8747c56d9c7aa2e6c2c9e370aaa889",
+          "url": "https://api.github.com/repos/twbs/icons/commits/01905e9f4c8747c56d9c7aa2e6c2c9e370aaa889",
+          "html_url": "https://github.com/twbs/icons/commit/01905e9f4c8747c56d9c7aa2e6c2c9e370aaa889"
+        }
+      ]
+    },
+    {
+      "sha": "01905e9f4c8747c56d9c7aa2e6c2c9e370aaa889",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OjAxOTA1ZTlmNGM4NzQ3YzU2ZDljN2FhMmU2YzJjOWUzNzBhYWE4ODk=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-07-23T04:35:34Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-07-28T17:39:40Z"
+        },
+        "message": "Redraw arrows and box arrows",
+        "tree": {
+          "sha": "a4128352741d8e581a1f4a3dbe3a4fd9f060cd4a",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/a4128352741d8e581a1f4a3dbe3a4fd9f060cd4a"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/01905e9f4c8747c56d9c7aa2e6c2c9e370aaa889",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/01905e9f4c8747c56d9c7aa2e6c2c9e370aaa889",
+      "html_url": "https://github.com/twbs/icons/commit/01905e9f4c8747c56d9c7aa2e6c2c9e370aaa889",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/01905e9f4c8747c56d9c7aa2e6c2c9e370aaa889/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "2de6554c4f7998ab4f099430f83efdf2efb90d6b",
+          "url": "https://api.github.com/repos/twbs/icons/commits/2de6554c4f7998ab4f099430f83efdf2efb90d6b",
+          "html_url": "https://github.com/twbs/icons/commit/2de6554c4f7998ab4f099430f83efdf2efb90d6b"
+        }
+      ]
+    },
+    {
+      "sha": "2de6554c4f7998ab4f099430f83efdf2efb90d6b",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OjJkZTY1NTRjNGY3OTk4YWI0ZjA5OTQzMGY4M2VmZGYyZWZiOTBkNmI=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-07-23T04:33:35Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-07-28T17:39:40Z"
+        },
+        "message": "Redraw alerts, warnings, and signs",
+        "tree": {
+          "sha": "76637a65fe8b28087bb6048118167c48e867495c",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/76637a65fe8b28087bb6048118167c48e867495c"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/2de6554c4f7998ab4f099430f83efdf2efb90d6b",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/2de6554c4f7998ab4f099430f83efdf2efb90d6b",
+      "html_url": "https://github.com/twbs/icons/commit/2de6554c4f7998ab4f099430f83efdf2efb90d6b",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/2de6554c4f7998ab4f099430f83efdf2efb90d6b/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "52bf22ee208efc4899a71246d8ef24f4b94e2261",
+          "url": "https://api.github.com/repos/twbs/icons/commits/52bf22ee208efc4899a71246d8ef24f4b94e2261",
+          "html_url": "https://github.com/twbs/icons/commit/52bf22ee208efc4899a71246d8ef24f4b94e2261"
+        }
+      ]
+    },
+    {
+      "sha": "52bf22ee208efc4899a71246d8ef24f4b94e2261",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OjUyYmYyMmVlMjA4ZWZjNDg5OWE3MTI0NmQ4ZWYyNGY0Yjk0ZTIyNjE=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-07-23T04:30:21Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-07-28T17:39:40Z"
+        },
+        "message": "Redraw archive icons for pixel perfect handles",
+        "tree": {
+          "sha": "948d722192c91e6384af339d0fcda30839799b90",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/948d722192c91e6384af339d0fcda30839799b90"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/52bf22ee208efc4899a71246d8ef24f4b94e2261",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/52bf22ee208efc4899a71246d8ef24f4b94e2261",
+      "html_url": "https://github.com/twbs/icons/commit/52bf22ee208efc4899a71246d8ef24f4b94e2261",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/52bf22ee208efc4899a71246d8ef24f4b94e2261/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "8fdb28c84908c3d5ff195d4b5955a7e8c93552db",
+          "url": "https://api.github.com/repos/twbs/icons/commits/8fdb28c84908c3d5ff195d4b5955a7e8c93552db",
+          "html_url": "https://github.com/twbs/icons/commit/8fdb28c84908c3d5ff195d4b5955a7e8c93552db"
+        }
+      ]
+    },
+    {
+      "sha": "e9b588f95a4ed9884c38b90ce9341f0aea2acf3b",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OmU5YjU4OGY5NWE0ZWQ5ODg0YzM4YjkwY2U5MzQxZjBhZWEyYWNmM2I=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-07-07T16:13:51Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-07-28T17:39:40Z"
+        },
+        "message": "Fixes #355: Fix paths on striped cone icons",
+        "tree": {
+          "sha": "e721cfad1c6dd69c26b66fb3613e08e3033e2bb7",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/e721cfad1c6dd69c26b66fb3613e08e3033e2bb7"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/e9b588f95a4ed9884c38b90ce9341f0aea2acf3b",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/e9b588f95a4ed9884c38b90ce9341f0aea2acf3b",
+      "html_url": "https://github.com/twbs/icons/commit/e9b588f95a4ed9884c38b90ce9341f0aea2acf3b",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/e9b588f95a4ed9884c38b90ce9341f0aea2acf3b/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "9f4cd4cc173a09e8938ae2b81fe35bf677bf98d3",
+          "url": "https://api.github.com/repos/twbs/icons/commits/9f4cd4cc173a09e8938ae2b81fe35bf677bf98d3",
+          "html_url": "https://github.com/twbs/icons/commit/9f4cd4cc173a09e8938ae2b81fe35bf677bf98d3"
+        }
+      ]
+    },
+    {
+      "sha": "9f4cd4cc173a09e8938ae2b81fe35bf677bf98d3",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OjlmNGNkNGNjMTczYTA5ZTg5MzhhZTJiODFmZTM1YmY2NzdiZjk4ZDM=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-07-07T01:20:08Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-07-28T17:39:40Z"
+        },
+        "message": "Add three more file icons to round out file sets, new image variants",
+        "tree": {
+          "sha": "029fc82cdd74e57063b498d1e5efdb119e2ffa19",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/029fc82cdd74e57063b498d1e5efdb119e2ffa19"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/9f4cd4cc173a09e8938ae2b81fe35bf677bf98d3",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/9f4cd4cc173a09e8938ae2b81fe35bf677bf98d3",
+      "html_url": "https://github.com/twbs/icons/commit/9f4cd4cc173a09e8938ae2b81fe35bf677bf98d3",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/9f4cd4cc173a09e8938ae2b81fe35bf677bf98d3/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "f259137bfb41065dbbab27c8b0d7c6e5b0139e6d",
+          "url": "https://api.github.com/repos/twbs/icons/commits/f259137bfb41065dbbab27c8b0d7c6e5b0139e6d",
+          "html_url": "https://github.com/twbs/icons/commit/f259137bfb41065dbbab27c8b0d7c6e5b0139e6d"
+        }
+      ]
+    },
+    {
+      "sha": "f259137bfb41065dbbab27c8b0d7c6e5b0139e6d",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OmYyNTkxMzdiZmI0MTA2NWRiYmFiMjdjOGIwZDdjNmU1YjAxMzllNmQ=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-07-06T23:35:37Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-07-28T17:39:40Z"
+        },
+        "message": "Update and unify all file icons\n\n- File icons are now taller by 2px, making them appear more like documents\n- All icons updated to use unified shapes\n- 40 new icons (mostly earmark options, but also new file types)",
+        "tree": {
+          "sha": "5ca532d688d44acd8db2867a3aaab69c8a9d6d32",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/5ca532d688d44acd8db2867a3aaab69c8a9d6d32"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/f259137bfb41065dbbab27c8b0d7c6e5b0139e6d",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/f259137bfb41065dbbab27c8b0d7c6e5b0139e6d",
+      "html_url": "https://github.com/twbs/icons/commit/f259137bfb41065dbbab27c8b0d7c6e5b0139e6d",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/f259137bfb41065dbbab27c8b0d7c6e5b0139e6d/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "35337315cacfbc8065119f23a458c0291bcb114c",
+          "url": "https://api.github.com/repos/twbs/icons/commits/35337315cacfbc8065119f23a458c0291bcb114c",
+          "html_url": "https://github.com/twbs/icons/commit/35337315cacfbc8065119f23a458c0291bcb114c"
+        }
+      ]
+    },
+    {
+      "sha": "35337315cacfbc8065119f23a458c0291bcb114c",
+      "node_id": "MDY6Q29tbWl0MTk4ODc4ODg4OjM1MzM3MzE1Y2FjZmJjODA2NTExOWYyM2E0NThjMDI5MWJjYjExNGM=",
+      "commit": {
+        "author": {
+          "name": "Mark Otto",
+          "email": "markdotto@gmail.com",
+          "date": "2020-07-06T23:33:05Z"
+        },
+        "committer": {
+          "name": "Mark Otto",
+          "email": "otto@github.com",
+          "date": "2020-07-28T17:39:40Z"
+        },
+        "message": "Update calendar icons\n\n- Redrawn for consistency\n- Add 4 new icons, two options for calendar-x icons",
+        "tree": {
+          "sha": "42d5694025253c0bfb748a6cc844061aa42fccfa",
+          "url": "https://api.github.com/repos/twbs/icons/git/trees/42d5694025253c0bfb748a6cc844061aa42fccfa"
+        },
+        "url": "https://api.github.com/repos/twbs/icons/git/commits/35337315cacfbc8065119f23a458c0291bcb114c",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/twbs/icons/commits/35337315cacfbc8065119f23a458c0291bcb114c",
+      "html_url": "https://github.com/twbs/icons/commit/35337315cacfbc8065119f23a458c0291bcb114c",
+      "comments_url": "https://api.github.com/repos/twbs/icons/commits/35337315cacfbc8065119f23a458c0291bcb114c/comments",
+      "author": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "committer": {
+        "login": "mdo",
+        "id": 98681,
+        "node_id": "MDQ6VXNlcjk4Njgx",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/98681?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mdo",
+        "html_url": "https://github.com/mdo",
+        "followers_url": "https://api.github.com/users/mdo/followers",
+        "following_url": "https://api.github.com/users/mdo/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mdo/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mdo/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mdo/subscriptions",
+        "organizations_url": "https://api.github.com/users/mdo/orgs",
+        "repos_url": "https://api.github.com/users/mdo/repos",
+        "events_url": "https://api.github.com/users/mdo/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mdo/received_events",
+        "type": "User",
+        "site_admin": true
+      },
+      "parents": [
+        {
+          "sha": "a4d174a29a74b6b62b8fbf95390c3408f9591bef",
+          "url": "https://api.github.com/repos/twbs/icons/commits/a4d174a29a74b6b62b8fbf95390c3408f9591bef",
+          "html_url": "https://github.com/twbs/icons/commit/a4d174a29a74b6b62b8fbf95390c3408f9591bef"
+        }
+      ]
+    }
+  ]
+}

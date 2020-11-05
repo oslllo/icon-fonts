@@ -1,0 +1,2341 @@
+{
+  "commits": [
+    {
+      "sha": "486ae967651291fc679c2f7aad4cad3076676610",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6NDg2YWU5Njc2NTEyOTFmYzY3OWMyZjdhYWQ0Y2FkMzA3NjY3NjYxMA==",
+      "commit": {
+        "author": {
+          "name": "Ben",
+          "email": "ben@drifty.com",
+          "date": "2020-10-07T15:36:31Z"
+        },
+        "committer": {
+          "name": "Ben",
+          "email": "ben@drifty.com",
+          "date": "2020-10-07T15:36:31Z"
+        },
+        "message": "Fix unlink icons",
+        "tree": {
+          "sha": "7481f6de321d4978ae53d01e129d406e7168219b",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/7481f6de321d4978ae53d01e129d406e7168219b"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/486ae967651291fc679c2f7aad4cad3076676610",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/486ae967651291fc679c2f7aad4cad3076676610",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/486ae967651291fc679c2f7aad4cad3076676610",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/486ae967651291fc679c2f7aad4cad3076676610/comments",
+      "author": {
+        "login": "bensperry",
+        "id": 519526,
+        "node_id": "MDQ6VXNlcjUxOTUyNg==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/519526?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/bensperry",
+        "html_url": "https://github.com/bensperry",
+        "followers_url": "https://api.github.com/users/bensperry/followers",
+        "following_url": "https://api.github.com/users/bensperry/following{/other_user}",
+        "gists_url": "https://api.github.com/users/bensperry/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/bensperry/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/bensperry/subscriptions",
+        "organizations_url": "https://api.github.com/users/bensperry/orgs",
+        "repos_url": "https://api.github.com/users/bensperry/repos",
+        "events_url": "https://api.github.com/users/bensperry/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/bensperry/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "bensperry",
+        "id": 519526,
+        "node_id": "MDQ6VXNlcjUxOTUyNg==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/519526?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/bensperry",
+        "html_url": "https://github.com/bensperry",
+        "followers_url": "https://api.github.com/users/bensperry/followers",
+        "following_url": "https://api.github.com/users/bensperry/following{/other_user}",
+        "gists_url": "https://api.github.com/users/bensperry/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/bensperry/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/bensperry/subscriptions",
+        "organizations_url": "https://api.github.com/users/bensperry/orgs",
+        "repos_url": "https://api.github.com/users/bensperry/repos",
+        "events_url": "https://api.github.com/users/bensperry/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/bensperry/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "eca4c14f05920fc1f3ce0f39bbd4aea223b8d0fe",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/eca4c14f05920fc1f3ce0f39bbd4aea223b8d0fe",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/eca4c14f05920fc1f3ce0f39bbd4aea223b8d0fe"
+        }
+      ]
+    },
+    {
+      "sha": "107c075d88de8f59b5aff8da844f9a991229b026",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6MTA3YzA3NWQ4OGRlOGY1OWI1YWZmOGRhODQ0ZjlhOTkxMjI5YjAyNg==",
+      "commit": {
+        "author": {
+          "name": "Ben",
+          "email": "ben@drifty.com",
+          "date": "2020-10-06T16:02:47Z"
+        },
+        "committer": {
+          "name": "Ben",
+          "email": "ben@drifty.com",
+          "date": "2020-10-06T16:02:47Z"
+        },
+        "message": "Update color to black",
+        "tree": {
+          "sha": "99bd51a2d3ab8b37c7b37b8bd93fc43e718ac7e4",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/99bd51a2d3ab8b37c7b37b8bd93fc43e718ac7e4"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/107c075d88de8f59b5aff8da844f9a991229b026",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/107c075d88de8f59b5aff8da844f9a991229b026",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/107c075d88de8f59b5aff8da844f9a991229b026",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/107c075d88de8f59b5aff8da844f9a991229b026/comments",
+      "author": {
+        "login": "bensperry",
+        "id": 519526,
+        "node_id": "MDQ6VXNlcjUxOTUyNg==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/519526?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/bensperry",
+        "html_url": "https://github.com/bensperry",
+        "followers_url": "https://api.github.com/users/bensperry/followers",
+        "following_url": "https://api.github.com/users/bensperry/following{/other_user}",
+        "gists_url": "https://api.github.com/users/bensperry/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/bensperry/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/bensperry/subscriptions",
+        "organizations_url": "https://api.github.com/users/bensperry/orgs",
+        "repos_url": "https://api.github.com/users/bensperry/repos",
+        "events_url": "https://api.github.com/users/bensperry/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/bensperry/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "bensperry",
+        "id": 519526,
+        "node_id": "MDQ6VXNlcjUxOTUyNg==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/519526?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/bensperry",
+        "html_url": "https://github.com/bensperry",
+        "followers_url": "https://api.github.com/users/bensperry/followers",
+        "following_url": "https://api.github.com/users/bensperry/following{/other_user}",
+        "gists_url": "https://api.github.com/users/bensperry/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/bensperry/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/bensperry/subscriptions",
+        "organizations_url": "https://api.github.com/users/bensperry/orgs",
+        "repos_url": "https://api.github.com/users/bensperry/repos",
+        "events_url": "https://api.github.com/users/bensperry/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/bensperry/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "2f3effb33f312c4777d9e13a709441c87caa4497",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/2f3effb33f312c4777d9e13a709441c87caa4497",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/2f3effb33f312c4777d9e13a709441c87caa4497"
+        }
+      ]
+    },
+    {
+      "sha": "2f3effb33f312c4777d9e13a709441c87caa4497",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6MmYzZWZmYjMzZjMxMmM0Nzc3ZDllMTNhNzA5NDQxYzg3Y2FhNDQ5Nw==",
+      "commit": {
+        "author": {
+          "name": "Ben",
+          "email": "ben@drifty.com",
+          "date": "2020-10-06T15:05:33Z"
+        },
+        "committer": {
+          "name": "Ben",
+          "email": "ben@drifty.com",
+          "date": "2020-10-06T15:05:33Z"
+        },
+        "message": "Fix outlines",
+        "tree": {
+          "sha": "948ddcc1754d9d9e426fd63504a27974da4c8eb1",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/948ddcc1754d9d9e426fd63504a27974da4c8eb1"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/2f3effb33f312c4777d9e13a709441c87caa4497",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/2f3effb33f312c4777d9e13a709441c87caa4497",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/2f3effb33f312c4777d9e13a709441c87caa4497",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/2f3effb33f312c4777d9e13a709441c87caa4497/comments",
+      "author": {
+        "login": "bensperry",
+        "id": 519526,
+        "node_id": "MDQ6VXNlcjUxOTUyNg==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/519526?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/bensperry",
+        "html_url": "https://github.com/bensperry",
+        "followers_url": "https://api.github.com/users/bensperry/followers",
+        "following_url": "https://api.github.com/users/bensperry/following{/other_user}",
+        "gists_url": "https://api.github.com/users/bensperry/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/bensperry/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/bensperry/subscriptions",
+        "organizations_url": "https://api.github.com/users/bensperry/orgs",
+        "repos_url": "https://api.github.com/users/bensperry/repos",
+        "events_url": "https://api.github.com/users/bensperry/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/bensperry/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "bensperry",
+        "id": 519526,
+        "node_id": "MDQ6VXNlcjUxOTUyNg==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/519526?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/bensperry",
+        "html_url": "https://github.com/bensperry",
+        "followers_url": "https://api.github.com/users/bensperry/followers",
+        "following_url": "https://api.github.com/users/bensperry/following{/other_user}",
+        "gists_url": "https://api.github.com/users/bensperry/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/bensperry/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/bensperry/subscriptions",
+        "organizations_url": "https://api.github.com/users/bensperry/orgs",
+        "repos_url": "https://api.github.com/users/bensperry/repos",
+        "events_url": "https://api.github.com/users/bensperry/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/bensperry/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "c580023063dd740e550c4679e072fb1f42ce3803",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/c580023063dd740e550c4679e072fb1f42ce3803",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/c580023063dd740e550c4679e072fb1f42ce3803"
+        }
+      ]
+    },
+    {
+      "sha": "0f77aaf2db57d4f989da6e85fcfbe552a0fbd0b2",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6MGY3N2FhZjJkYjU3ZDRmOTg5ZGE2ZTg1ZmNmYmU1NTJhMGZiZDBiMg==",
+      "commit": {
+        "author": {
+          "name": "Adam Bradley",
+          "email": "adamdbradley@users.noreply.github.com",
+          "date": "2020-10-06T04:02:59Z"
+        },
+        "committer": {
+          "name": "Adam Bradley",
+          "email": "adamdbradley@users.noreply.github.com",
+          "date": "2020-10-06T04:02:59Z"
+        },
+        "message": "fix(src): fixed source svg inlined styles",
+        "tree": {
+          "sha": "7d87f8d7fd57605b2c4441cf0bd3f7ffcd5f5f5e",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/7d87f8d7fd57605b2c4441cf0bd3f7ffcd5f5f5e"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/0f77aaf2db57d4f989da6e85fcfbe552a0fbd0b2",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/0f77aaf2db57d4f989da6e85fcfbe552a0fbd0b2",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/0f77aaf2db57d4f989da6e85fcfbe552a0fbd0b2",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/0f77aaf2db57d4f989da6e85fcfbe552a0fbd0b2/comments",
+      "author": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "cc7291248f3e54e5991efc6bba828a689de47d06",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/cc7291248f3e54e5991efc6bba828a689de47d06",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/cc7291248f3e54e5991efc6bba828a689de47d06"
+        }
+      ]
+    },
+    {
+      "sha": "9de2a0760e347f6de8ca84c7329df8975ee26199",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6OWRlMmEwNzYwZTM0N2Y2ZGU4Y2E4NGM3MzI5ZGY4OTc1ZWUyNjE5OQ==",
+      "commit": {
+        "author": {
+          "name": "Ben",
+          "email": "ben@drifty.com",
+          "date": "2020-10-05T20:32:20Z"
+        },
+        "committer": {
+          "name": "Ben",
+          "email": "ben@drifty.com",
+          "date": "2020-10-05T20:32:20Z"
+        },
+        "message": "feat(icons): added new icons\n\nNew and modified icons update",
+        "tree": {
+          "sha": "e43e080a3bdebd445b6434128ec283be9fb07daa",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/e43e080a3bdebd445b6434128ec283be9fb07daa"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/9de2a0760e347f6de8ca84c7329df8975ee26199",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/9de2a0760e347f6de8ca84c7329df8975ee26199",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/9de2a0760e347f6de8ca84c7329df8975ee26199",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/9de2a0760e347f6de8ca84c7329df8975ee26199/comments",
+      "author": {
+        "login": "bensperry",
+        "id": 519526,
+        "node_id": "MDQ6VXNlcjUxOTUyNg==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/519526?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/bensperry",
+        "html_url": "https://github.com/bensperry",
+        "followers_url": "https://api.github.com/users/bensperry/followers",
+        "following_url": "https://api.github.com/users/bensperry/following{/other_user}",
+        "gists_url": "https://api.github.com/users/bensperry/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/bensperry/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/bensperry/subscriptions",
+        "organizations_url": "https://api.github.com/users/bensperry/orgs",
+        "repos_url": "https://api.github.com/users/bensperry/repos",
+        "events_url": "https://api.github.com/users/bensperry/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/bensperry/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "bensperry",
+        "id": 519526,
+        "node_id": "MDQ6VXNlcjUxOTUyNg==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/519526?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/bensperry",
+        "html_url": "https://github.com/bensperry",
+        "followers_url": "https://api.github.com/users/bensperry/followers",
+        "following_url": "https://api.github.com/users/bensperry/following{/other_user}",
+        "gists_url": "https://api.github.com/users/bensperry/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/bensperry/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/bensperry/subscriptions",
+        "organizations_url": "https://api.github.com/users/bensperry/orgs",
+        "repos_url": "https://api.github.com/users/bensperry/repos",
+        "events_url": "https://api.github.com/users/bensperry/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/bensperry/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "38efaa1e8fd95061c90abe05c502992db3f3abf4",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/38efaa1e8fd95061c90abe05c502992db3f3abf4",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/38efaa1e8fd95061c90abe05c502992db3f3abf4"
+        }
+      ]
+    },
+    {
+      "sha": "38efaa1e8fd95061c90abe05c502992db3f3abf4",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6MzhlZmFhMWU4ZmQ5NTA2MWM5MGFiZTA1YzUwMjk5MmRiM2YzYWJmNA==",
+      "commit": {
+        "author": {
+          "name": "Ben Sperry",
+          "email": "bensperry@users.noreply.github.com",
+          "date": "2020-09-29T18:13:26Z"
+        },
+        "committer": {
+          "name": "GitHub",
+          "email": "noreply@github.com",
+          "date": "2020-09-29T18:13:26Z"
+        },
+        "message": "Merge pull request #846 from whoacowboy/unlink-icon\n\nAdding unlink icon",
+        "tree": {
+          "sha": "69d2f6fb67b581dd80a73b22e5789be010a20725",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/69d2f6fb67b581dd80a73b22e5789be010a20725"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/38efaa1e8fd95061c90abe05c502992db3f3abf4",
+        "comment_count": 0,
+        "verification": {
+          "verified": true,
+          "reason": "valid",
+          "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJfc3lGCRBK7hj4Ov3rIwAAdHIIAKvK8NP6RluTE6ayqXsawFJx\nXl8U3TdoJsDlkraQoeGCMAxkzkW3O8vJRRNcV+UQaC1QSuryUOv+MyaTje/oxMgU\nuJZ62ATzucbzJVzOuWuXyy+Npq54I53vSr4zbT/rVagCqjMo67iAeN+fJF3vaCsD\nuTxjGIXJOgkUSznFJJsWHJwnZVzKwgpz8Za4/Vj269KyRx12+P+CfrgSxuULjLGb\n8/e1cwqed+9agI9PNw2qgwdByuQdGKn8veHV5o+LfNicOtW2RavHKc8/PEkZrVzn\nEtKIy48kvOAaJ2s0bAa9n+Dsb1Ez83M15n8++3CpVBML9fdTwoOMcrt9pdVgd7I=\n=evCy\n-----END PGP SIGNATURE-----\n",
+          "payload": "tree 69d2f6fb67b581dd80a73b22e5789be010a20725\nparent 502d1f7077bb377f9939e254754c4753284bea01\nparent 2204753a37252007cafd2d27007c114189cbef51\nauthor Ben Sperry <bensperry@users.noreply.github.com> 1601403206 -0500\ncommitter GitHub <noreply@github.com> 1601403206 -0500\n\nMerge pull request #846 from whoacowboy/unlink-icon\n\nAdding unlink icon"
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/38efaa1e8fd95061c90abe05c502992db3f3abf4",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/38efaa1e8fd95061c90abe05c502992db3f3abf4",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/38efaa1e8fd95061c90abe05c502992db3f3abf4/comments",
+      "author": {
+        "login": "bensperry",
+        "id": 519526,
+        "node_id": "MDQ6VXNlcjUxOTUyNg==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/519526?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/bensperry",
+        "html_url": "https://github.com/bensperry",
+        "followers_url": "https://api.github.com/users/bensperry/followers",
+        "following_url": "https://api.github.com/users/bensperry/following{/other_user}",
+        "gists_url": "https://api.github.com/users/bensperry/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/bensperry/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/bensperry/subscriptions",
+        "organizations_url": "https://api.github.com/users/bensperry/orgs",
+        "repos_url": "https://api.github.com/users/bensperry/repos",
+        "events_url": "https://api.github.com/users/bensperry/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/bensperry/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "web-flow",
+        "id": 19864447,
+        "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/web-flow",
+        "html_url": "https://github.com/web-flow",
+        "followers_url": "https://api.github.com/users/web-flow/followers",
+        "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+        "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+        "organizations_url": "https://api.github.com/users/web-flow/orgs",
+        "repos_url": "https://api.github.com/users/web-flow/repos",
+        "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/web-flow/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "502d1f7077bb377f9939e254754c4753284bea01",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/502d1f7077bb377f9939e254754c4753284bea01",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/502d1f7077bb377f9939e254754c4753284bea01"
+        },
+        {
+          "sha": "2204753a37252007cafd2d27007c114189cbef51",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/2204753a37252007cafd2d27007c114189cbef51",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/2204753a37252007cafd2d27007c114189cbef51"
+        }
+      ]
+    },
+    {
+      "sha": "63c9ee02a51bb6a2e2528c05a427cfb85e7c27be",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6NjNjOWVlMDJhNTFiYjZhMmUyNTI4YzA1YTQyN2NmYjg1ZTdjMjdiZQ==",
+      "commit": {
+        "author": {
+          "name": "Adam Bradley",
+          "email": "adamdbradley@users.noreply.github.com",
+          "date": "2020-06-23T19:20:12Z"
+        },
+        "committer": {
+          "name": "Adam Bradley",
+          "email": "adamdbradley@users.noreply.github.com",
+          "date": "2020-06-23T19:20:12Z"
+        },
+        "message": "feat: update firebase",
+        "tree": {
+          "sha": "ef02ef8e3abba93699e710d5a8a653183c27b4ce",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/ef02ef8e3abba93699e710d5a8a653183c27b4ce"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/63c9ee02a51bb6a2e2528c05a427cfb85e7c27be",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/63c9ee02a51bb6a2e2528c05a427cfb85e7c27be",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/63c9ee02a51bb6a2e2528c05a427cfb85e7c27be",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/63c9ee02a51bb6a2e2528c05a427cfb85e7c27be/comments",
+      "author": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "2e7fe1431528c053621515e8f8d57eb8194b0c5b",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/2e7fe1431528c053621515e8f8d57eb8194b0c5b",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/2e7fe1431528c053621515e8f8d57eb8194b0c5b"
+        }
+      ]
+    },
+    {
+      "sha": "2e7fe1431528c053621515e8f8d57eb8194b0c5b",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6MmU3ZmUxNDMxNTI4YzA1MzYyMTUxNWU4ZjhkNTdlYjgxOTRiMGM1Yg==",
+      "commit": {
+        "author": {
+          "name": "Adam Bradley",
+          "email": "adamdbradley@users.noreply.github.com",
+          "date": "2020-06-23T19:20:02Z"
+        },
+        "committer": {
+          "name": "Adam Bradley",
+          "email": "adamdbradley@users.noreply.github.com",
+          "date": "2020-06-23T19:20:02Z"
+        },
+        "message": "feat: update facebook",
+        "tree": {
+          "sha": "9e55dc6c2781d0aa63de5102c66f4fe619b0ea1f",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/9e55dc6c2781d0aa63de5102c66f4fe619b0ea1f"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/2e7fe1431528c053621515e8f8d57eb8194b0c5b",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/2e7fe1431528c053621515e8f8d57eb8194b0c5b",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/2e7fe1431528c053621515e8f8d57eb8194b0c5b",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/2e7fe1431528c053621515e8f8d57eb8194b0c5b/comments",
+      "author": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "f61e47c698f10e31ee804984b64c4166284a441f",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/f61e47c698f10e31ee804984b64c4166284a441f",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/f61e47c698f10e31ee804984b64c4166284a441f"
+        }
+      ]
+    },
+    {
+      "sha": "f61e47c698f10e31ee804984b64c4166284a441f",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6ZjYxZTQ3YzY5OGYxMGUzMWVlODA0OTg0YjY0YzQxNjYyODRhNDQxZg==",
+      "commit": {
+        "author": {
+          "name": "Adam Bradley",
+          "email": "adamdbradley@users.noreply.github.com",
+          "date": "2020-06-23T19:19:53Z"
+        },
+        "committer": {
+          "name": "Adam Bradley",
+          "email": "adamdbradley@users.noreply.github.com",
+          "date": "2020-06-23T19:19:53Z"
+        },
+        "message": "feat: update edge",
+        "tree": {
+          "sha": "f981fb7bb8d53ca85f68e922e4aecb129d835b9e",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/f981fb7bb8d53ca85f68e922e4aecb129d835b9e"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/f61e47c698f10e31ee804984b64c4166284a441f",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/f61e47c698f10e31ee804984b64c4166284a441f",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/f61e47c698f10e31ee804984b64c4166284a441f",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/f61e47c698f10e31ee804984b64c4166284a441f/comments",
+      "author": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "922f43387be72c69780f29eb95081c77c91b2c5b",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/922f43387be72c69780f29eb95081c77c91b2c5b",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/922f43387be72c69780f29eb95081c77c91b2c5b"
+        }
+      ]
+    },
+    {
+      "sha": "922f43387be72c69780f29eb95081c77c91b2c5b",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6OTIyZjQzMzg3YmU3MmM2OTc4MGYyOWViOTUwODFjNzdjOTFiMmM1Yg==",
+      "commit": {
+        "author": {
+          "name": "Adam Bradley",
+          "email": "adamdbradley@users.noreply.github.com",
+          "date": "2020-06-23T19:19:39Z"
+        },
+        "committer": {
+          "name": "Adam Bradley",
+          "email": "adamdbradley@users.noreply.github.com",
+          "date": "2020-06-23T19:19:39Z"
+        },
+        "message": "feat: add venmo",
+        "tree": {
+          "sha": "8753f2a9e5299132528c5a7b1ddbe9495e36ee14",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/8753f2a9e5299132528c5a7b1ddbe9495e36ee14"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/922f43387be72c69780f29eb95081c77c91b2c5b",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/922f43387be72c69780f29eb95081c77c91b2c5b",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/922f43387be72c69780f29eb95081c77c91b2c5b",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/922f43387be72c69780f29eb95081c77c91b2c5b/comments",
+      "author": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "73526e40b8095d692679405ecb39500f9bf5d343",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/73526e40b8095d692679405ecb39500f9bf5d343",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/73526e40b8095d692679405ecb39500f9bf5d343"
+        }
+      ]
+    },
+    {
+      "sha": "73526e40b8095d692679405ecb39500f9bf5d343",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6NzM1MjZlNDBiODA5NWQ2OTI2Nzk0MDVlY2IzOTUwMGY5YmY1ZDM0Mw==",
+      "commit": {
+        "author": {
+          "name": "Adam Bradley",
+          "email": "adamdbradley@users.noreply.github.com",
+          "date": "2020-06-23T19:19:30Z"
+        },
+        "committer": {
+          "name": "Adam Bradley",
+          "email": "adamdbradley@users.noreply.github.com",
+          "date": "2020-06-23T19:19:30Z"
+        },
+        "message": "feat: add tiktok",
+        "tree": {
+          "sha": "0adad7557e8f797014c704e6cec5ca350cecbfc5",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/0adad7557e8f797014c704e6cec5ca350cecbfc5"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/73526e40b8095d692679405ecb39500f9bf5d343",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/73526e40b8095d692679405ecb39500f9bf5d343",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/73526e40b8095d692679405ecb39500f9bf5d343",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/73526e40b8095d692679405ecb39500f9bf5d343/comments",
+      "author": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "7ce073d3fe4e3ec10cd28cac15de63215433100e",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/7ce073d3fe4e3ec10cd28cac15de63215433100e",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/7ce073d3fe4e3ec10cd28cac15de63215433100e"
+        }
+      ]
+    },
+    {
+      "sha": "7ce073d3fe4e3ec10cd28cac15de63215433100e",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6N2NlMDczZDNmZTRlM2VjMTBjZDI4Y2FjMTVkZTYzMjE1NDMzMTAwZQ==",
+      "commit": {
+        "author": {
+          "name": "Adam Bradley",
+          "email": "adamdbradley@users.noreply.github.com",
+          "date": "2020-06-23T19:19:21Z"
+        },
+        "committer": {
+          "name": "Adam Bradley",
+          "email": "adamdbradley@users.noreply.github.com",
+          "date": "2020-06-23T19:19:21Z"
+        },
+        "message": "feat: add soundcloud",
+        "tree": {
+          "sha": "9fedc94efa7e96ad3dc7c8523dbfb0546640e263",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/9fedc94efa7e96ad3dc7c8523dbfb0546640e263"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/7ce073d3fe4e3ec10cd28cac15de63215433100e",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/7ce073d3fe4e3ec10cd28cac15de63215433100e",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/7ce073d3fe4e3ec10cd28cac15de63215433100e",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/7ce073d3fe4e3ec10cd28cac15de63215433100e/comments",
+      "author": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "1b07d10212b602b532e887409623370b4df9b96d",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/1b07d10212b602b532e887409623370b4df9b96d",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/1b07d10212b602b532e887409623370b4df9b96d"
+        }
+      ]
+    },
+    {
+      "sha": "1b07d10212b602b532e887409623370b4df9b96d",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6MWIwN2QxMDIxMmI2MDJiNTMyZTg4NzQwOTYyMzM3MGI0ZGY5Yjk2ZA==",
+      "commit": {
+        "author": {
+          "name": "Adam Bradley",
+          "email": "adamdbradley@users.noreply.github.com",
+          "date": "2020-06-23T19:19:12Z"
+        },
+        "committer": {
+          "name": "Adam Bradley",
+          "email": "adamdbradley@users.noreply.github.com",
+          "date": "2020-06-23T19:19:12Z"
+        },
+        "message": "feat: add paypal",
+        "tree": {
+          "sha": "a961b5c14d37783ce3d28ecda67e4787555c9cef",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/a961b5c14d37783ce3d28ecda67e4787555c9cef"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/1b07d10212b602b532e887409623370b4df9b96d",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/1b07d10212b602b532e887409623370b4df9b96d",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/1b07d10212b602b532e887409623370b4df9b96d",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/1b07d10212b602b532e887409623370b4df9b96d/comments",
+      "author": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "89837496004a1102156a4554cfff66623c5c98f2",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/89837496004a1102156a4554cfff66623c5c98f2",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/89837496004a1102156a4554cfff66623c5c98f2"
+        }
+      ]
+    },
+    {
+      "sha": "89837496004a1102156a4554cfff66623c5c98f2",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6ODk4Mzc0OTYwMDRhMTEwMjE1NmE0NTU0Y2ZmZjY2NjIzYzVjOThmMg==",
+      "commit": {
+        "author": {
+          "name": "Adam Bradley",
+          "email": "adamdbradley@users.noreply.github.com",
+          "date": "2020-06-23T19:19:04Z"
+        },
+        "committer": {
+          "name": "Adam Bradley",
+          "email": "adamdbradley@users.noreply.github.com",
+          "date": "2020-06-23T19:19:04Z"
+        },
+        "message": "feat: add medium",
+        "tree": {
+          "sha": "7763a78e8a0bb45892c9a3892768aeb7f79d38ae",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/7763a78e8a0bb45892c9a3892768aeb7f79d38ae"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/89837496004a1102156a4554cfff66623c5c98f2",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/89837496004a1102156a4554cfff66623c5c98f2",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/89837496004a1102156a4554cfff66623c5c98f2",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/89837496004a1102156a4554cfff66623c5c98f2/comments",
+      "author": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "fa8d76e20c3bbc138a5976edb0465aa8da34a5f3",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/fa8d76e20c3bbc138a5976edb0465aa8da34a5f3",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/fa8d76e20c3bbc138a5976edb0465aa8da34a5f3"
+        }
+      ]
+    },
+    {
+      "sha": "fa8d76e20c3bbc138a5976edb0465aa8da34a5f3",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6ZmE4ZDc2ZTIwYzNiYmMxMzhhNTk3NmVkYjA0NjVhYThkYTM0YTVmMw==",
+      "commit": {
+        "author": {
+          "name": "Adam Bradley",
+          "email": "adamdbradley@users.noreply.github.com",
+          "date": "2020-06-23T19:18:54Z"
+        },
+        "committer": {
+          "name": "Adam Bradley",
+          "email": "adamdbradley@users.noreply.github.com",
+          "date": "2020-06-23T19:18:54Z"
+        },
+        "message": "feat: add gitlab",
+        "tree": {
+          "sha": "3bcbc069edb98dba1d9e3b59b663ab7e5703d2ee",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/3bcbc069edb98dba1d9e3b59b663ab7e5703d2ee"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/fa8d76e20c3bbc138a5976edb0465aa8da34a5f3",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/fa8d76e20c3bbc138a5976edb0465aa8da34a5f3",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/fa8d76e20c3bbc138a5976edb0465aa8da34a5f3",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/fa8d76e20c3bbc138a5976edb0465aa8da34a5f3/comments",
+      "author": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "91fa34ebc7b21eb013b19499ce5b73a1b67b4542",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/91fa34ebc7b21eb013b19499ce5b73a1b67b4542",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/91fa34ebc7b21eb013b19499ce5b73a1b67b4542"
+        }
+      ]
+    },
+    {
+      "sha": "91fa34ebc7b21eb013b19499ce5b73a1b67b4542",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6OTFmYTM0ZWJjN2IyMWViMDEzYjE5NDk5Y2U1YjczYTFiNjdiNDU0Mg==",
+      "commit": {
+        "author": {
+          "name": "Adam Bradley",
+          "email": "adamdbradley@users.noreply.github.com",
+          "date": "2020-06-23T19:18:11Z"
+        },
+        "committer": {
+          "name": "Adam Bradley",
+          "email": "adamdbradley@users.noreply.github.com",
+          "date": "2020-06-23T19:18:11Z"
+        },
+        "message": "feat: add docker",
+        "tree": {
+          "sha": "a9f9189d2c21aca0be012727b0818e411c560cba",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/a9f9189d2c21aca0be012727b0818e411c560cba"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/91fa34ebc7b21eb013b19499ce5b73a1b67b4542",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/91fa34ebc7b21eb013b19499ce5b73a1b67b4542",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/91fa34ebc7b21eb013b19499ce5b73a1b67b4542",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/91fa34ebc7b21eb013b19499ce5b73a1b67b4542/comments",
+      "author": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "14fd26b38f7d4c4628f75fa65bc3247abb152ab8",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/14fd26b38f7d4c4628f75fa65bc3247abb152ab8",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/14fd26b38f7d4c4628f75fa65bc3247abb152ab8"
+        }
+      ]
+    },
+    {
+      "sha": "14fd26b38f7d4c4628f75fa65bc3247abb152ab8",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6MTRmZDI2YjM4ZjdkNGM0NjI4Zjc1ZmE2NWJjMzI0N2FiYjE1MmFiOA==",
+      "commit": {
+        "author": {
+          "name": "Adam Bradley",
+          "email": "adamdbradley@users.noreply.github.com",
+          "date": "2020-06-23T19:18:01Z"
+        },
+        "committer": {
+          "name": "Adam Bradley",
+          "email": "adamdbradley@users.noreply.github.com",
+          "date": "2020-06-23T19:18:01Z"
+        },
+        "message": "feat: add behance",
+        "tree": {
+          "sha": "f37dc6c460ba9764119d28136dd4c48afd0531f4",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/f37dc6c460ba9764119d28136dd4c48afd0531f4"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/14fd26b38f7d4c4628f75fa65bc3247abb152ab8",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/14fd26b38f7d4c4628f75fa65bc3247abb152ab8",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/14fd26b38f7d4c4628f75fa65bc3247abb152ab8",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/14fd26b38f7d4c4628f75fa65bc3247abb152ab8/comments",
+      "author": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "2301be8f6c11d05575eb62ed30026f7ec9bc15be",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/2301be8f6c11d05575eb62ed30026f7ec9bc15be",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/2301be8f6c11d05575eb62ed30026f7ec9bc15be"
+        }
+      ]
+    },
+    {
+      "sha": "2204753a37252007cafd2d27007c114189cbef51",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6MjIwNDc1M2EzNzI1MjAwN2NhZmQyZDI3MDA3YzExNDE4OWNiZWY1MQ==",
+      "commit": {
+        "author": {
+          "name": "James",
+          "email": "james@MacBook-Pro.localdomain",
+          "date": "2020-06-14T16:13:13Z"
+        },
+        "committer": {
+          "name": "James",
+          "email": "james@MacBook-Pro.localdomain",
+          "date": "2020-06-14T16:13:13Z"
+        },
+        "message": "Adding unlink icon",
+        "tree": {
+          "sha": "623a667603737af359c07aa556131f7bfa2e1442",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/623a667603737af359c07aa556131f7bfa2e1442"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/2204753a37252007cafd2d27007c114189cbef51",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/2204753a37252007cafd2d27007c114189cbef51",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/2204753a37252007cafd2d27007c114189cbef51",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/2204753a37252007cafd2d27007c114189cbef51/comments",
+      "author": null,
+      "committer": null,
+      "parents": [
+        {
+          "sha": "cd791f735c793a090b59445a9a632f594a050c01",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/cd791f735c793a090b59445a9a632f594a050c01",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/cd791f735c793a090b59445a9a632f594a050c01"
+        }
+      ]
+    },
+    {
+      "sha": "bc14bfea993e6e46fae2b824cc17ca73764ccac9",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6YmMxNGJmZWE5OTNlNmU0NmZhZTJiODI0Y2MxN2NhNzM3NjRjY2FjOQ==",
+      "commit": {
+        "author": {
+          "name": "Kevin Ports",
+          "email": "kevin.ports@gmail.com",
+          "date": "2020-01-21T22:04:59Z"
+        },
+        "committer": {
+          "name": "Kevin Ports",
+          "email": "kevin.ports@gmail.com",
+          "date": "2020-01-21T22:04:59Z"
+        },
+        "message": "fix src svg typo causing incorrect female-outline to be built",
+        "tree": {
+          "sha": "89321c3e755cdf0b2b8c65fdc7bb60c6c43e0fcb",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/89321c3e755cdf0b2b8c65fdc7bb60c6c43e0fcb"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/bc14bfea993e6e46fae2b824cc17ca73764ccac9",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/bc14bfea993e6e46fae2b824cc17ca73764ccac9",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/bc14bfea993e6e46fae2b824cc17ca73764ccac9",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/bc14bfea993e6e46fae2b824cc17ca73764ccac9/comments",
+      "author": {
+        "login": "kevinports",
+        "id": 751207,
+        "node_id": "MDQ6VXNlcjc1MTIwNw==",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/751207?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/kevinports",
+        "html_url": "https://github.com/kevinports",
+        "followers_url": "https://api.github.com/users/kevinports/followers",
+        "following_url": "https://api.github.com/users/kevinports/following{/other_user}",
+        "gists_url": "https://api.github.com/users/kevinports/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/kevinports/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/kevinports/subscriptions",
+        "organizations_url": "https://api.github.com/users/kevinports/orgs",
+        "repos_url": "https://api.github.com/users/kevinports/repos",
+        "events_url": "https://api.github.com/users/kevinports/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/kevinports/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "kevinports",
+        "id": 751207,
+        "node_id": "MDQ6VXNlcjc1MTIwNw==",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/751207?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/kevinports",
+        "html_url": "https://github.com/kevinports",
+        "followers_url": "https://api.github.com/users/kevinports/followers",
+        "following_url": "https://api.github.com/users/kevinports/following{/other_user}",
+        "gists_url": "https://api.github.com/users/kevinports/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/kevinports/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/kevinports/subscriptions",
+        "organizations_url": "https://api.github.com/users/kevinports/orgs",
+        "repos_url": "https://api.github.com/users/kevinports/repos",
+        "events_url": "https://api.github.com/users/kevinports/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/kevinports/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "32cb024b427a3066e5811c5a10463a86e1bdabf9",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/32cb024b427a3066e5811c5a10463a86e1bdabf9",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/32cb024b427a3066e5811c5a10463a86e1bdabf9"
+        }
+      ]
+    },
+    {
+      "sha": "4c95d03958a80600ec6ab2bc3e8783ef209971ee",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6NGM5NWQwMzk1OGE4MDYwMGVjNmFiMmJjM2U4NzgzZWYyMDk5NzFlZQ==",
+      "commit": {
+        "author": {
+          "name": "Kevin Ports",
+          "email": "kevin.ports@gmail.com",
+          "date": "2020-01-15T20:36:49Z"
+        },
+        "committer": {
+          "name": "GitHub",
+          "email": "noreply@github.com",
+          "date": "2020-01-15T20:36:49Z"
+        },
+        "message": "Updates (#756)\n\n* Rename mail-notification to mail-unread\r\n\r\n* rename radio-on/off to radio-button-on/off\r\n\r\n* Add missing checkmark-done svg\r\n\r\n* Rebuild svg changes\r\n\r\n* Update changelog and readme\r\n\r\n* Update changelog",
+        "tree": {
+          "sha": "b36079e7809a4b43ba6258dad1d3210ad991b3b6",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/b36079e7809a4b43ba6258dad1d3210ad991b3b6"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/4c95d03958a80600ec6ab2bc3e8783ef209971ee",
+        "comment_count": 0,
+        "verification": {
+          "verified": true,
+          "reason": "valid",
+          "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJeH3fhCRBK7hj4Ov3rIwAAdHIIAFHxLjxPc5OheBQQHz2CQD2m\n5ozoT1TIoVAqkz6D5lVyN7TpaZdIVdDCy5c7lnAqKtloJg6uhSylXi0airH6nFWr\nM5g9AI3jSrD/mmneZATtLSBFKIUujNnKqFSIyQ7A/rbXg7vJ76X1DgsI+zp9+vqD\nPaLzkfoxdQTHpSTZonLcCXc1LdK1JzNRT2wqQL7e4ChPtkP6Rg0KCv0lnYSRvIAm\nkVvi9gqiE5NjyQrbyQqD3Rjt075VXOxsDOZi3VX/1SJ9KcVuewkCM5IIuXeX4t7i\nwVQVK51mR+k5jbt66PQsJ9gKZ3skKglspR0tTWDTqUOANh/QUPsGd4z9NJOt/k4=\n=cGiQ\n-----END PGP SIGNATURE-----\n",
+          "payload": "tree b36079e7809a4b43ba6258dad1d3210ad991b3b6\nparent 8a54bf0a713f5c92dcc6f190c733369d4d7ca94a\nauthor Kevin Ports <kevin.ports@gmail.com> 1579120609 -0600\ncommitter GitHub <noreply@github.com> 1579120609 -0600\n\nUpdates (#756)\n\n* Rename mail-notification to mail-unread\r\n\r\n* rename radio-on/off to radio-button-on/off\r\n\r\n* Add missing checkmark-done svg\r\n\r\n* Rebuild svg changes\r\n\r\n* Update changelog and readme\r\n\r\n* Update changelog\r\n"
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/4c95d03958a80600ec6ab2bc3e8783ef209971ee",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/4c95d03958a80600ec6ab2bc3e8783ef209971ee",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/4c95d03958a80600ec6ab2bc3e8783ef209971ee/comments",
+      "author": {
+        "login": "kevinports",
+        "id": 751207,
+        "node_id": "MDQ6VXNlcjc1MTIwNw==",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/751207?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/kevinports",
+        "html_url": "https://github.com/kevinports",
+        "followers_url": "https://api.github.com/users/kevinports/followers",
+        "following_url": "https://api.github.com/users/kevinports/following{/other_user}",
+        "gists_url": "https://api.github.com/users/kevinports/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/kevinports/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/kevinports/subscriptions",
+        "organizations_url": "https://api.github.com/users/kevinports/orgs",
+        "repos_url": "https://api.github.com/users/kevinports/repos",
+        "events_url": "https://api.github.com/users/kevinports/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/kevinports/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "web-flow",
+        "id": 19864447,
+        "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/web-flow",
+        "html_url": "https://github.com/web-flow",
+        "followers_url": "https://api.github.com/users/web-flow/followers",
+        "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+        "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+        "organizations_url": "https://api.github.com/users/web-flow/orgs",
+        "repos_url": "https://api.github.com/users/web-flow/repos",
+        "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/web-flow/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "8a54bf0a713f5c92dcc6f190c733369d4d7ca94a",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/8a54bf0a713f5c92dcc6f190c733369d4d7ca94a",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/8a54bf0a713f5c92dcc6f190c733369d4d7ca94a"
+        }
+      ]
+    },
+    {
+      "sha": "3d7ed854c77655a1518f7ec7769676dfa9322e90",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6M2Q3ZWQ4NTRjNzc2NTVhMTUxOGY3ZWM3NzY5Njc2ZGZhOTMyMmU5MA==",
+      "commit": {
+        "author": {
+          "name": "Kevin Ports",
+          "email": "kevin.ports@gmail.com",
+          "date": "2020-01-02T23:02:18Z"
+        },
+        "committer": {
+          "name": "Kevin Ports",
+          "email": "kevin.ports@gmail.com",
+          "date": "2020-01-02T23:07:52Z"
+        },
+        "message": "Correct fill in default vertical and horizontal ellipses svg",
+        "tree": {
+          "sha": "3eaa472cfa0efac8feaa6ce6760e78c0f4d7b8db",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/3eaa472cfa0efac8feaa6ce6760e78c0f4d7b8db"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/3d7ed854c77655a1518f7ec7769676dfa9322e90",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/3d7ed854c77655a1518f7ec7769676dfa9322e90",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/3d7ed854c77655a1518f7ec7769676dfa9322e90",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/3d7ed854c77655a1518f7ec7769676dfa9322e90/comments",
+      "author": {
+        "login": "kevinports",
+        "id": 751207,
+        "node_id": "MDQ6VXNlcjc1MTIwNw==",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/751207?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/kevinports",
+        "html_url": "https://github.com/kevinports",
+        "followers_url": "https://api.github.com/users/kevinports/followers",
+        "following_url": "https://api.github.com/users/kevinports/following{/other_user}",
+        "gists_url": "https://api.github.com/users/kevinports/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/kevinports/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/kevinports/subscriptions",
+        "organizations_url": "https://api.github.com/users/kevinports/orgs",
+        "repos_url": "https://api.github.com/users/kevinports/repos",
+        "events_url": "https://api.github.com/users/kevinports/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/kevinports/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "kevinports",
+        "id": 751207,
+        "node_id": "MDQ6VXNlcjc1MTIwNw==",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/751207?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/kevinports",
+        "html_url": "https://github.com/kevinports",
+        "followers_url": "https://api.github.com/users/kevinports/followers",
+        "following_url": "https://api.github.com/users/kevinports/following{/other_user}",
+        "gists_url": "https://api.github.com/users/kevinports/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/kevinports/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/kevinports/subscriptions",
+        "organizations_url": "https://api.github.com/users/kevinports/orgs",
+        "repos_url": "https://api.github.com/users/kevinports/repos",
+        "events_url": "https://api.github.com/users/kevinports/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/kevinports/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "46afd68218537b8846920db57d57a77f4cc5a880",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/46afd68218537b8846920db57d57a77f4cc5a880",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/46afd68218537b8846920db57d57a77f4cc5a880"
+        }
+      ]
+    },
+    {
+      "sha": "dfb62b67e05ce396b4fb7b0e149c6ce19010b13a",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6ZGZiNjJiNjdlMDVjZTM5NmI0ZmI3YjBlMTQ5YzZjZTE5MDEwYjEzYQ==",
+      "commit": {
+        "author": {
+          "name": "Adam Bradley",
+          "email": "adambradley25@gmail.com",
+          "date": "2019-10-17T16:52:25Z"
+        },
+        "committer": {
+          "name": "Adam Bradley",
+          "email": "adambradley25@gmail.com",
+          "date": "2019-10-17T16:52:25Z"
+        },
+        "message": "fix(toggle): rename switch to toggle",
+        "tree": {
+          "sha": "f7804ac8ee4bfb41ae6de2130270df07b6e9cbac",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/f7804ac8ee4bfb41ae6de2130270df07b6e9cbac"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/dfb62b67e05ce396b4fb7b0e149c6ce19010b13a",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/dfb62b67e05ce396b4fb7b0e149c6ce19010b13a",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/dfb62b67e05ce396b4fb7b0e149c6ce19010b13a",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/dfb62b67e05ce396b4fb7b0e149c6ce19010b13a/comments",
+      "author": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "b85a855b7e5a22ea79b6de6f5954869a1123a027",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/b85a855b7e5a22ea79b6de6f5954869a1123a027",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/b85a855b7e5a22ea79b6de6f5954869a1123a027"
+        }
+      ]
+    },
+    {
+      "sha": "b74a92328c5229315b9c621159f84713e178661e",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6Yjc0YTkyMzI4YzUyMjkzMTViOWM2MjExNTlmODQ3MTNlMTc4NjYxZQ==",
+      "commit": {
+        "author": {
+          "name": "Kevin Ports",
+          "email": "kevin.ports@gmail.com",
+          "date": "2019-09-25T21:12:08Z"
+        },
+        "committer": {
+          "name": "Kevin Ports",
+          "email": "kevin.ports@gmail.com",
+          "date": "2019-09-25T21:12:22Z"
+        },
+        "message": "Replace src svg with unoptimized exports",
+        "tree": {
+          "sha": "138712d2bc02ebce5c3d267c969476087f454999",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/138712d2bc02ebce5c3d267c969476087f454999"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/b74a92328c5229315b9c621159f84713e178661e",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/b74a92328c5229315b9c621159f84713e178661e",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/b74a92328c5229315b9c621159f84713e178661e",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/b74a92328c5229315b9c621159f84713e178661e/comments",
+      "author": {
+        "login": "kevinports",
+        "id": 751207,
+        "node_id": "MDQ6VXNlcjc1MTIwNw==",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/751207?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/kevinports",
+        "html_url": "https://github.com/kevinports",
+        "followers_url": "https://api.github.com/users/kevinports/followers",
+        "following_url": "https://api.github.com/users/kevinports/following{/other_user}",
+        "gists_url": "https://api.github.com/users/kevinports/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/kevinports/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/kevinports/subscriptions",
+        "organizations_url": "https://api.github.com/users/kevinports/orgs",
+        "repos_url": "https://api.github.com/users/kevinports/repos",
+        "events_url": "https://api.github.com/users/kevinports/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/kevinports/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "kevinports",
+        "id": 751207,
+        "node_id": "MDQ6VXNlcjc1MTIwNw==",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/751207?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/kevinports",
+        "html_url": "https://github.com/kevinports",
+        "followers_url": "https://api.github.com/users/kevinports/followers",
+        "following_url": "https://api.github.com/users/kevinports/following{/other_user}",
+        "gists_url": "https://api.github.com/users/kevinports/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/kevinports/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/kevinports/subscriptions",
+        "organizations_url": "https://api.github.com/users/kevinports/orgs",
+        "repos_url": "https://api.github.com/users/kevinports/repos",
+        "events_url": "https://api.github.com/users/kevinports/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/kevinports/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "b01be99602259b21fb3947976255d5254848e49e",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/b01be99602259b21fb3947976255d5254848e49e",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/b01be99602259b21fb3947976255d5254848e49e"
+        }
+      ]
+    },
+    {
+      "sha": "eaee160c880729a487e946d7d9c9e3c3936b7e02",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6ZWFlZTE2MGM4ODA3MjlhNDg3ZTk0NmQ3ZDljOWUzYzM5MzZiN2UwMg==",
+      "commit": {
+        "author": {
+          "name": "Kevin Ports",
+          "email": "kevin.ports@gmail.com",
+          "date": "2019-09-24T17:05:40Z"
+        },
+        "committer": {
+          "name": "Kevin Ports",
+          "email": "kevin.ports@gmail.com",
+          "date": "2019-09-24T17:05:40Z"
+        },
+        "message": "Fix chatbubble ellipses variant naming error",
+        "tree": {
+          "sha": "28b52b96da2e74826a9f1237a773e891078b5378",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/28b52b96da2e74826a9f1237a773e891078b5378"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/eaee160c880729a487e946d7d9c9e3c3936b7e02",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/eaee160c880729a487e946d7d9c9e3c3936b7e02",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/eaee160c880729a487e946d7d9c9e3c3936b7e02",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/eaee160c880729a487e946d7d9c9e3c3936b7e02/comments",
+      "author": {
+        "login": "kevinports",
+        "id": 751207,
+        "node_id": "MDQ6VXNlcjc1MTIwNw==",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/751207?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/kevinports",
+        "html_url": "https://github.com/kevinports",
+        "followers_url": "https://api.github.com/users/kevinports/followers",
+        "following_url": "https://api.github.com/users/kevinports/following{/other_user}",
+        "gists_url": "https://api.github.com/users/kevinports/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/kevinports/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/kevinports/subscriptions",
+        "organizations_url": "https://api.github.com/users/kevinports/orgs",
+        "repos_url": "https://api.github.com/users/kevinports/repos",
+        "events_url": "https://api.github.com/users/kevinports/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/kevinports/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "kevinports",
+        "id": 751207,
+        "node_id": "MDQ6VXNlcjc1MTIwNw==",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/751207?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/kevinports",
+        "html_url": "https://github.com/kevinports",
+        "followers_url": "https://api.github.com/users/kevinports/followers",
+        "following_url": "https://api.github.com/users/kevinports/following{/other_user}",
+        "gists_url": "https://api.github.com/users/kevinports/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/kevinports/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/kevinports/subscriptions",
+        "organizations_url": "https://api.github.com/users/kevinports/orgs",
+        "repos_url": "https://api.github.com/users/kevinports/repos",
+        "events_url": "https://api.github.com/users/kevinports/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/kevinports/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "b4c51b089a1e3236224d40c0c60a69e1f180dc5a",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/b4c51b089a1e3236224d40c0c60a69e1f180dc5a",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/b4c51b089a1e3236224d40c0c60a69e1f180dc5a"
+        }
+      ]
+    },
+    {
+      "sha": "db473aeb45732a8f63546bf574b95f82af983894",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6ZGI0NzNhZWI0NTczMmE4ZjYzNTQ2YmY1NzRiOTVmODJhZjk4Mzg5NA==",
+      "commit": {
+        "author": {
+          "name": "Kevin Ports",
+          "email": "kevin.ports@gmail.com",
+          "date": "2019-09-24T16:56:07Z"
+        },
+        "committer": {
+          "name": "Kevin Ports",
+          "email": "kevin.ports@gmail.com",
+          "date": "2019-09-24T16:56:07Z"
+        },
+        "message": "Add duplicates for missing variants",
+        "tree": {
+          "sha": "7163a0bf30c9c84007f1681b811836ab3c4fe2ba",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/7163a0bf30c9c84007f1681b811836ab3c4fe2ba"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/db473aeb45732a8f63546bf574b95f82af983894",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/db473aeb45732a8f63546bf574b95f82af983894",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/db473aeb45732a8f63546bf574b95f82af983894",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/db473aeb45732a8f63546bf574b95f82af983894/comments",
+      "author": {
+        "login": "kevinports",
+        "id": 751207,
+        "node_id": "MDQ6VXNlcjc1MTIwNw==",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/751207?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/kevinports",
+        "html_url": "https://github.com/kevinports",
+        "followers_url": "https://api.github.com/users/kevinports/followers",
+        "following_url": "https://api.github.com/users/kevinports/following{/other_user}",
+        "gists_url": "https://api.github.com/users/kevinports/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/kevinports/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/kevinports/subscriptions",
+        "organizations_url": "https://api.github.com/users/kevinports/orgs",
+        "repos_url": "https://api.github.com/users/kevinports/repos",
+        "events_url": "https://api.github.com/users/kevinports/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/kevinports/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "kevinports",
+        "id": 751207,
+        "node_id": "MDQ6VXNlcjc1MTIwNw==",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/751207?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/kevinports",
+        "html_url": "https://github.com/kevinports",
+        "followers_url": "https://api.github.com/users/kevinports/followers",
+        "following_url": "https://api.github.com/users/kevinports/following{/other_user}",
+        "gists_url": "https://api.github.com/users/kevinports/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/kevinports/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/kevinports/subscriptions",
+        "organizations_url": "https://api.github.com/users/kevinports/orgs",
+        "repos_url": "https://api.github.com/users/kevinports/repos",
+        "events_url": "https://api.github.com/users/kevinports/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/kevinports/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "ce435274352cebcbe78571db905606e154c81d74",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/ce435274352cebcbe78571db905606e154c81d74",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/ce435274352cebcbe78571db905606e154c81d74"
+        }
+      ]
+    },
+    {
+      "sha": "7152cfd6c20f70b4a4e3733711f05dde23f7f70b",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6NzE1MmNmZDZjMjBmNzBiNGE0ZTM3MzM3MTFmMDVkZGUyM2Y3ZjcwYg==",
+      "commit": {
+        "author": {
+          "name": "Kevin Ports",
+          "email": "kevin.ports@gmail.com",
+          "date": "2019-09-23T18:17:05Z"
+        },
+        "committer": {
+          "name": "Kevin Ports",
+          "email": "kevin.ports@gmail.com",
+          "date": "2019-09-23T18:17:05Z"
+        },
+        "message": "Correct a few src svg filename issues",
+        "tree": {
+          "sha": "e548cc1cd1f8c49e411eaeecee3b23100a4ba859",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/e548cc1cd1f8c49e411eaeecee3b23100a4ba859"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/7152cfd6c20f70b4a4e3733711f05dde23f7f70b",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/7152cfd6c20f70b4a4e3733711f05dde23f7f70b",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/7152cfd6c20f70b4a4e3733711f05dde23f7f70b",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/7152cfd6c20f70b4a4e3733711f05dde23f7f70b/comments",
+      "author": {
+        "login": "kevinports",
+        "id": 751207,
+        "node_id": "MDQ6VXNlcjc1MTIwNw==",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/751207?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/kevinports",
+        "html_url": "https://github.com/kevinports",
+        "followers_url": "https://api.github.com/users/kevinports/followers",
+        "following_url": "https://api.github.com/users/kevinports/following{/other_user}",
+        "gists_url": "https://api.github.com/users/kevinports/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/kevinports/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/kevinports/subscriptions",
+        "organizations_url": "https://api.github.com/users/kevinports/orgs",
+        "repos_url": "https://api.github.com/users/kevinports/repos",
+        "events_url": "https://api.github.com/users/kevinports/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/kevinports/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "kevinports",
+        "id": 751207,
+        "node_id": "MDQ6VXNlcjc1MTIwNw==",
+        "avatar_url": "https://avatars2.githubusercontent.com/u/751207?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/kevinports",
+        "html_url": "https://github.com/kevinports",
+        "followers_url": "https://api.github.com/users/kevinports/followers",
+        "following_url": "https://api.github.com/users/kevinports/following{/other_user}",
+        "gists_url": "https://api.github.com/users/kevinports/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/kevinports/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/kevinports/subscriptions",
+        "organizations_url": "https://api.github.com/users/kevinports/orgs",
+        "repos_url": "https://api.github.com/users/kevinports/repos",
+        "events_url": "https://api.github.com/users/kevinports/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/kevinports/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "9e254846f506ab9d973cd7731c153a866d2600e2",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/9e254846f506ab9d973cd7731c153a866d2600e2",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/9e254846f506ab9d973cd7731c153a866d2600e2"
+        }
+      ]
+    },
+    {
+      "sha": "67c8bf056594ef029bed27429b4af3447abafc74",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6NjdjOGJmMDU2NTk0ZWYwMjliZWQyNzQyOWI0YWYzNDQ3YWJhZmM3NA==",
+      "commit": {
+        "author": {
+          "name": "Adam Bradley",
+          "email": "adambradley25@gmail.com",
+          "date": "2019-09-17T19:33:34Z"
+        },
+        "committer": {
+          "name": "Adam Bradley",
+          "email": "adambradley25@gmail.com",
+          "date": "2019-09-17T19:33:34Z"
+        },
+        "message": "refactor(toggle): rename switch to toggle",
+        "tree": {
+          "sha": "20b4cf5d4a1bb16e2bb347dfb3d5967cb3a0fc8e",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/20b4cf5d4a1bb16e2bb347dfb3d5967cb3a0fc8e"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/67c8bf056594ef029bed27429b4af3447abafc74",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/67c8bf056594ef029bed27429b4af3447abafc74",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/67c8bf056594ef029bed27429b4af3447abafc74",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/67c8bf056594ef029bed27429b4af3447abafc74/comments",
+      "author": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "f0d22ccc265332410e1fc364f64c1121731f6c8a",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/f0d22ccc265332410e1fc364f64c1121731f6c8a",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/f0d22ccc265332410e1fc364f64c1121731f6c8a"
+        }
+      ]
+    },
+    {
+      "sha": "1be0c8eb219c76b18baba25596251cdec78ac9b4",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6MWJlMGM4ZWIyMTljNzZiMThiYWJhMjU1OTYyNTFjZGVjNzhhYzliNA==",
+      "commit": {
+        "author": {
+          "name": "Adam Bradley",
+          "email": "adambradley25@gmail.com",
+          "date": "2019-09-17T15:16:05Z"
+        },
+        "committer": {
+          "name": "Adam Bradley",
+          "email": "adambradley25@gmail.com",
+          "date": "2019-09-17T15:16:05Z"
+        },
+        "message": "refactor: update v5 icons",
+        "tree": {
+          "sha": "0fa755af7c1ba8cc3d62c00b2f23dcc4c10451c0",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/0fa755af7c1ba8cc3d62c00b2f23dcc4c10451c0"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/1be0c8eb219c76b18baba25596251cdec78ac9b4",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/1be0c8eb219c76b18baba25596251cdec78ac9b4",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/1be0c8eb219c76b18baba25596251cdec78ac9b4",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/1be0c8eb219c76b18baba25596251cdec78ac9b4/comments",
+      "author": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "adamdbradley",
+        "id": 452425,
+        "node_id": "MDQ6VXNlcjQ1MjQyNQ==",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/452425?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adamdbradley",
+        "html_url": "https://github.com/adamdbradley",
+        "followers_url": "https://api.github.com/users/adamdbradley/followers",
+        "following_url": "https://api.github.com/users/adamdbradley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adamdbradley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adamdbradley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adamdbradley/subscriptions",
+        "organizations_url": "https://api.github.com/users/adamdbradley/orgs",
+        "repos_url": "https://api.github.com/users/adamdbradley/repos",
+        "events_url": "https://api.github.com/users/adamdbradley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adamdbradley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "f57e4988b05a91e3ba124d9f30ad0756935093e4",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/f57e4988b05a91e3ba124d9f30ad0756935093e4",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/f57e4988b05a91e3ba124d9f30ad0756935093e4"
+        }
+      ]
+    },
+    {
+      "sha": "510232d6a1c2ee76fb2a896377d1e83a0e700fb3",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6NTEwMjMyZDZhMWMyZWU3NmZiMmE4OTYzNzdkMWU4M2EwZTcwMGZiMw==",
+      "commit": {
+        "author": {
+          "name": "Brandy Carney",
+          "email": "brandyscarney@users.noreply.github.com",
+          "date": "2019-05-10T15:06:30Z"
+        },
+        "committer": {
+          "name": "GitHub",
+          "email": "noreply@github.com",
+          "date": "2019-05-10T15:06:30Z"
+        },
+        "message": "fix(svg): remove hardcoded fills from icons (#689)\n\nfixes #529",
+        "tree": {
+          "sha": "cd6cab02848b1f1fdf822c5ec52bc6ee396b8bda",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/cd6cab02848b1f1fdf822c5ec52bc6ee396b8bda"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/510232d6a1c2ee76fb2a896377d1e83a0e700fb3",
+        "comment_count": 0,
+        "verification": {
+          "verified": true,
+          "reason": "valid",
+          "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJc1ZN2CRBK7hj4Ov3rIwAAdHIIAJRwrIkf2+BAT3159MuRs7vz\nEwBfGKBqQnFmxhc8cHvBa0xDncDG4+dHmG6vwLwDNlohtxBfBovlmoeBTLozaeef\ngn3ASx4A6f//LEaNmIb5BECBe4VZe1eW/FjDxkUibSWmO2dbjk4FoBBfhqHLO1jB\nmbnjSf4z0KN/goN0DuMWiUN+cMd4VwplDW81lOLIKyweJBRSF/fV+OR5dKuSa9OV\nT9SbXY5S2ud4VJFu8TykeIGMmEgHN035POYoJjN7nqQhTNMaFgAj0Ux5158Xi2kG\ncLuExdSyFNmM9DjkEg2ltZvJtoxls5w1yaSzxBUzWpUPvhHbJ7a5gWDvGmj5nh4=\n=Gyg1\n-----END PGP SIGNATURE-----\n",
+          "payload": "tree cd6cab02848b1f1fdf822c5ec52bc6ee396b8bda\nparent 2466debdaac2cf9a819078f626ff20e18d3f1411\nauthor Brandy Carney <brandyscarney@users.noreply.github.com> 1557500790 -0400\ncommitter GitHub <noreply@github.com> 1557500790 -0400\n\nfix(svg): remove hardcoded fills from icons (#689)\n\nfixes #529"
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/510232d6a1c2ee76fb2a896377d1e83a0e700fb3",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/510232d6a1c2ee76fb2a896377d1e83a0e700fb3",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/510232d6a1c2ee76fb2a896377d1e83a0e700fb3/comments",
+      "author": {
+        "login": "brandyscarney",
+        "id": 6577830,
+        "node_id": "MDQ6VXNlcjY1Nzc4MzA=",
+        "avatar_url": "https://avatars1.githubusercontent.com/u/6577830?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/brandyscarney",
+        "html_url": "https://github.com/brandyscarney",
+        "followers_url": "https://api.github.com/users/brandyscarney/followers",
+        "following_url": "https://api.github.com/users/brandyscarney/following{/other_user}",
+        "gists_url": "https://api.github.com/users/brandyscarney/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/brandyscarney/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/brandyscarney/subscriptions",
+        "organizations_url": "https://api.github.com/users/brandyscarney/orgs",
+        "repos_url": "https://api.github.com/users/brandyscarney/repos",
+        "events_url": "https://api.github.com/users/brandyscarney/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/brandyscarney/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "web-flow",
+        "id": 19864447,
+        "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/web-flow",
+        "html_url": "https://github.com/web-flow",
+        "followers_url": "https://api.github.com/users/web-flow/followers",
+        "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+        "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+        "organizations_url": "https://api.github.com/users/web-flow/orgs",
+        "repos_url": "https://api.github.com/users/web-flow/repos",
+        "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/web-flow/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "2466debdaac2cf9a819078f626ff20e18d3f1411",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/2466debdaac2cf9a819078f626ff20e18d3f1411",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/2466debdaac2cf9a819078f626ff20e18d3f1411"
+        }
+      ]
+    },
+    {
+      "sha": "5c9a238abfad747d9b9adf8f460a1e852f8b3ff6",
+      "node_id": "MDY6Q29tbWl0MTM0NzM3Njg6NWM5YTIzOGFiZmFkNzQ3ZDliOWFkZjhmNDYwYTFlODUyZjhiM2ZmNg==",
+      "commit": {
+        "author": {
+          "name": "Neil Kalman",
+          "email": "Neilkalman@gmail.com",
+          "date": "2018-10-21T11:49:56Z"
+        },
+        "committer": {
+          "name": "Neil Kalman",
+          "email": "Neilkalman@gmail.com",
+          "date": "2018-10-21T11:49:56Z"
+        },
+        "message": "remove style tag from additional svgs",
+        "tree": {
+          "sha": "8db59db3b05247fcf880b82d93cf1d7d64cc7b3d",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/git/trees/8db59db3b05247fcf880b82d93cf1d7d64cc7b3d"
+        },
+        "url": "https://api.github.com/repos/ionic-team/ionicons/git/commits/5c9a238abfad747d9b9adf8f460a1e852f8b3ff6",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null
+        }
+      },
+      "url": "https://api.github.com/repos/ionic-team/ionicons/commits/5c9a238abfad747d9b9adf8f460a1e852f8b3ff6",
+      "html_url": "https://github.com/ionic-team/ionicons/commit/5c9a238abfad747d9b9adf8f460a1e852f8b3ff6",
+      "comments_url": "https://api.github.com/repos/ionic-team/ionicons/commits/5c9a238abfad747d9b9adf8f460a1e852f8b3ff6/comments",
+      "author": {
+        "login": "Thatkookooguy",
+        "id": 10427304,
+        "node_id": "MDQ6VXNlcjEwNDI3MzA0",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/10427304?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Thatkookooguy",
+        "html_url": "https://github.com/Thatkookooguy",
+        "followers_url": "https://api.github.com/users/Thatkookooguy/followers",
+        "following_url": "https://api.github.com/users/Thatkookooguy/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Thatkookooguy/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Thatkookooguy/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Thatkookooguy/subscriptions",
+        "organizations_url": "https://api.github.com/users/Thatkookooguy/orgs",
+        "repos_url": "https://api.github.com/users/Thatkookooguy/repos",
+        "events_url": "https://api.github.com/users/Thatkookooguy/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Thatkookooguy/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "Thatkookooguy",
+        "id": 10427304,
+        "node_id": "MDQ6VXNlcjEwNDI3MzA0",
+        "avatar_url": "https://avatars3.githubusercontent.com/u/10427304?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Thatkookooguy",
+        "html_url": "https://github.com/Thatkookooguy",
+        "followers_url": "https://api.github.com/users/Thatkookooguy/followers",
+        "following_url": "https://api.github.com/users/Thatkookooguy/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Thatkookooguy/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Thatkookooguy/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Thatkookooguy/subscriptions",
+        "organizations_url": "https://api.github.com/users/Thatkookooguy/orgs",
+        "repos_url": "https://api.github.com/users/Thatkookooguy/repos",
+        "events_url": "https://api.github.com/users/Thatkookooguy/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Thatkookooguy/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "54dde87b474a9060df7ceeb9dfae8ca602aa48a6",
+          "url": "https://api.github.com/repos/ionic-team/ionicons/commits/54dde87b474a9060df7ceeb9dfae8ca602aa48a6",
+          "html_url": "https://github.com/ionic-team/ionicons/commit/54dde87b474a9060df7ceeb9dfae8ca602aa48a6"
+        }
+      ]
+    }
+  ]
+}
